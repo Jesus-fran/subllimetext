@@ -1,0 +1,16 @@
+{
+	"theme": "Material-Theme.sublime-theme",
+	"dark_theme": "Material-Theme.sublime-theme",
+	"light_theme": "Material-Theme.sublime-theme",
+	"font_face": "JetBrains Mono",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"index_files": true,
+	"show_full_path": false,
+	"show_line_column": "disabled",
+	"material_theme_small_statusbar": true,
+}

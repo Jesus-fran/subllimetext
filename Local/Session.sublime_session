@@ -1,0 +1,3337 @@
+{
+	"file_history":
+	[
+		"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
+		"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/var/www/html/expensetrack.com/public/index.php",
+		"/home/fran/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/fran/.config/sublime-text/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/home/fran/.config/sublime-text/Packages/User/Material-Theme.sublime-theme",
+		"/home/fran/.config/sublime-text/Packages/Material Theme/Material-Theme-Palenight.sublime-theme",
+		"/home/fran/.config/sublime-text/Packages/User/Material-Theme-Palenight.sublime-theme",
+		"/home/fran/.config/qtile/settings/widgets.py",
+		"/home/fran/.config/qtile/settings/keys.py",
+		"/home/fran/.config/qtile/config.json",
+		"/home/fran/.config/qtile/themes/nord-desatured.json",
+		"/home/fran/.config/qtile/themes/nord-minimalist.json",
+		"/home/fran/.config/qtile/themes/everforest-soft.json",
+		"/home/fran/.config/qtile/themes/nord-frost.json",
+		"/home/fran/.config/qtile/settings/groups.py",
+		"/home/fran/.config/qtile/.gitignore",
+		"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+		"/var/www/html/expensetrack.com/curl-example.php",
+		"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+		"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
+		"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+		"/var/www/html/expensetrack.com/app/App.php",
+		"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
+		"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
+		"/var/www/html/expensetrack.com/app/Container.php",
+		"/var/www/html/expensetrack.com/app/Router.php",
+		"/var/www/html/expensetrack.com/app/Config.php",
+		"/var/www/html/expensetrack.com/.env",
+		"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+		"/var/www/html/expensetrack.com/app/Services/EmailService.php",
+		"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
+		"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/TransportInterface.php",
+		"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
+		"/var/www/html/expensetrack.com/app/DB.php",
+		"/var/www/html/expensetrack.com/eloquent.php",
+		"/var/www/html/expensetrack.com/cli-config.php",
+		"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+		"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+		"/var/www/html/expensetrack.com/eloquent-example.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/Relation.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/DB.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/Facade.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php",
+		"/var/www/html/expensetrack.com/app/Entity/InvoiceItem.php",
+		"/var/www/html/expensetrack.com/app/Entity/Invoice.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasTimestamps.php",
+		"/var/www/html/expensetrack.com/migrations/Version20250522225337.php",
+		"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
+		"/var/www/html/expensetrack.com/migrations.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+		"/var/www/html/expensetrack.com/composer.json",
+		"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
+		"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/persistence/src/Persistence/Event/LifecycleEventArgs.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/event-manager/src/EventArgs.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/PrePersist.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/date/date_c.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/QueryBuilder.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Composite.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Select.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Base.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Internal/NoUnknownNamedArguments.php",
+		"/var/www/html/expensetrack.com/views/invoice/index.php",
+		"/var/www/html/expensetrack.com/views/index.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
+		"/home/fran/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/fran/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
+		"/var/www/html/expensetrack.com/app/Model.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
+		"/var/www/html/expensetrack.com/app/Transaction.php",
+		"/var/www/html/expensetrack.com/views/create.php",
+		"/var/www/html/expensetrack.com/app/Scripts/Email.php",
+		"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
+		"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
+		"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
+		"/var/www/html/expensetrack.com/views/user/create.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
+		"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
+		"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
+		"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
+		"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
+		"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php"
+	],
+	"folder_history":
+	[
+		"/var/www/html/expensetrack.com",
+		"/home/fran/.config/qtile",
+		"/var/www/html/learnphp.com",
+		"/home/fran/Projects/learnphp.com"
+	],
+	"last_version": 4200,
+	"last_window_id": 52,
+	"log_indexing": false,
+	"next_update_check": 1748446834,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 734.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			688.0,
+			29.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"curl_get",
+						"curl_getinfo()"
+					],
+					[
+						"curl_set",
+						"curl_setopt_array()"
+					],
+					[
+						"CURLOPT_RE",
+						"CURLOPT_RETURNTRANSFER"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"App",
+						"App\\Controllers"
+					],
+					[
+						"decla",
+						"declare\tdeclare_php"
+					],
+					[
+						"php",
+						"php\tphp"
+					],
+					[
+						"CURLOP",
+						"CURLOPT_URL"
+					],
+					[
+						"CURLO",
+						"CURLOPT_URL"
+					],
+					[
+						"curl_ini",
+						"curl_init()"
+					],
+					[
+						"Carbon",
+						"Carbon [Carbon]"
+					],
+					[
+						"boot",
+						"booted"
+					],
+					[
+						"Container",
+						"Container [Illuminate\\Container]"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"addDa",
+						"addDays"
+					],
+					[
+						"DB",
+						"DB [Illuminate\\Support\\Facades]"
+					],
+					[
+						"Carbo",
+						"Carbon [Carbon]"
+					],
+					[
+						"forea",
+						"foreach\tforeach …"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"InvoiceIte",
+						"InvoiceItem [App\\Models]"
+					],
+					[
+						"PHP",
+						"PHP_EOL"
+					],
+					[
+						"invoice",
+						"invoice_number"
+					],
+					[
+						"fora",
+						"foreach\tforeach …"
+					],
+					[
+						"each",
+						"each"
+					],
+					[
+						"inv",
+						"$invoiceItem"
+					],
+					[
+						"i",
+						"$item"
+					],
+					[
+						"forac",
+						"foreach\tforeach …"
+					],
+					[
+						"InvoiceItem",
+						"InvoiceItem"
+					],
+					[
+						"Model",
+						"Model [Illuminate\\Database\\Eloquent]"
+					],
+					[
+						"declare",
+						"declare\tdeclare_php"
+					],
+					[
+						"Wi",
+						"withoutTimestamps"
+					],
+					[
+						"fore",
+						"foreach\tforeach …"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Invoice",
+						"Invoice [App\\Models]"
+					],
+					[
+						"notnull",
+						"setNotnull"
+					],
+					[
+						"Auto",
+						"setAutoincrement"
+					],
+					[
+						"dr",
+						"dropTable"
+					],
+					[
+						"DATETIME",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"text",
+						"TEXT"
+					],
+					[
+						"in",
+						"INTEGER"
+					],
+					[
+						"create",
+						"createdAt"
+					],
+					[
+						"Preper",
+						"PrePersistEventArgs"
+					],
+					[
+						"gt",
+						"gte"
+					],
+					[
+						"q",
+						"$query"
+					],
+					[
+						"foreac",
+						"foreach\tforeach …"
+					],
+					[
+						"f",
+						"flush"
+					],
+					[
+						"re",
+						"remove"
+					],
+					[
+						"invo",
+						"invoiceId"
+					],
+					[
+						"Config",
+						"Configuration"
+					],
+					[
+						"con",
+						"$connectionParams"
+					],
+					[
+						"Connection",
+						"Connection [Doctrine\\DBAL]"
+					],
+					[
+						"Enti",
+						"EntityManager"
+					],
+					[
+						"Inovice",
+						"InvoiceItem"
+					],
+					[
+						"Invo",
+						"InvoiceItem"
+					],
+					[
+						"Invoi",
+						"InvoiceItem"
+					],
+					[
+						"Collect",
+						"Collection"
+					],
+					[
+						"invoi",
+						"invoiceId"
+					],
+					[
+						"Inovi",
+						"invoice"
+					],
+					[
+						"ArrayC",
+						"ArrayCollection"
+					],
+					[
+						"Collec",
+						"Collection"
+					],
+					[
+						"One",
+						"OneToMany"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"tra",
+						"$transactionItem"
+					],
+					[
+						"exe",
+						"executeStatement"
+					],
+					[
+						"exce",
+						"executeStatement"
+					],
+					[
+						"fetch",
+						"fetchLazy"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"trans",
+						"transaction"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"bi",
+						"bindValue"
+					],
+					[
+						"feat",
+						"fetchAllAssociative"
+					],
+					[
+						"e",
+						"executeQuery"
+					],
+					[
+						"fetchA",
+						"fetchAllAssociative"
+					],
+					[
+						"fet",
+						"fetchAllAssociative"
+					],
+					[
+						"Para",
+						"ParameterType"
+					],
+					[
+						"Connectio",
+						"Connection [Doctrine\\DBAL]"
+					],
+					[
+						"listTab",
+						"listTableIndexes"
+					],
+					[
+						"conver",
+						"convertToPHPValue"
+					],
+					[
+						"listTa",
+						"listTableColumns"
+					],
+					[
+						"listTable",
+						"listTables"
+					],
+					[
+						"list",
+						"listDatabases"
+					],
+					[
+						"getData",
+						"getDatabasePlatform"
+					],
+					[
+						"_n",
+						"_ENV"
+					],
+					[
+						"__invo",
+						"__invoke"
+					],
+					[
+						"emai",
+						"$emailModel"
+					],
+					[
+						"email",
+						"$email"
+					],
+					[
+						"ema",
+						"$emailStatus"
+					],
+					[
+						"emst",
+						"$emailStatus"
+					],
+					[
+						"Transport",
+						"TransportInterface"
+					],
+					[
+						"req",
+						"$requestMethod"
+					],
+					[
+						"http_res",
+						"http_response_code()"
+					],
+					[
+						"try",
+						"try\tWrap in try { … } catch (…) { … }"
+					],
+					[
+						"math",
+						"match"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"FETCH",
+						"FETCH_OBJ"
+					],
+					[
+						"date",
+						"date()"
+					],
+					[
+						"time",
+						"time()"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"getH",
+						"getHtmlBody"
+					],
+					[
+						"subj",
+						"getSubject"
+					],
+					[
+						"Email",
+						"Email [Symfony\\Component\\Mime]"
+					],
+					[
+						"dec",
+						"decl\tdeclare strict_types"
+					],
+					[
+						"Smtp",
+						"SmtpTransport [Symfony\\Component\\Mailer\\Transport\\Smtp]"
+					],
+					[
+						"Transpor",
+						"Transport"
+					],
+					[
+						"Trans",
+						"Transport"
+					],
+					[
+						"Mailer",
+						"Mailer"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"alig",
+						"align-content"
+					],
+					[
+						"items",
+						"justify-items"
+					],
+					[
+						"ph",
+						"php\tphp"
+					],
+					[
+						"declar",
+						"declare\tdeclare_php"
+					],
+					[
+						"Color",
+						"Colors [App\\Enums]"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"sta",
+						"status"
+					],
+					[
+						"Mo",
+						"Models"
+					],
+					[
+						"in_arr",
+						"in_array()"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"FET",
+						"FETCH_OBJ"
+					],
+					[
+						"end",
+						"endforeach"
+					],
+					[
+						"G",
+						"Get"
+					],
+					[
+						"Attr",
+						"Attribute"
+					],
+					[
+						"r",
+						"routes"
+					],
+					[
+						"attr",
+						"$attributeRoute"
+					],
+					[
+						"attribute",
+						"$attributeRoute"
+					],
+					[
+						"atr",
+						"$attributes"
+					],
+					[
+						"count",
+						"count()"
+					],
+					[
+						"att",
+						"$attributes"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/PHP/PHP.sublime-build",
+							""
+						],
+						[
+							"Packages/PHP/PHP.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/PHP/PHP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"g",
+						"git: status"
+					],
+					[
+						"gi",
+						"git: status"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"gt",
+						"git: status"
+					],
+					[
+						"git ",
+						"git: status"
+					],
+					[
+						"gti sta",
+						"git: status"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"gits",
+						"git: status"
+					],
+					[
+						"g l",
+						"git: log"
+					],
+					[
+						"g b",
+						"git: branch"
+					],
+					[
+						"git st",
+						"git: status"
+					],
+					[
+						"snippet",
+						"Snippet: php"
+					],
+					[
+						"Snippet: ",
+						"Snippet: declare_php"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"gs",
+						"git: status"
+					],
+					[
+						"gis",
+						"git: status"
+					],
+					[
+						"git sta",
+						"git: status"
+					],
+					[
+						"git tat",
+						"git: status"
+					],
+					[
+						"new ",
+						"ANF: New File"
+					],
+					[
+						"new fi",
+						"ANF: New File"
+					],
+					[
+						"git br",
+						"git: branch"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"file",
+						"ANF: Rename File"
+					],
+					[
+						"rena",
+						"File: Rename File"
+					],
+					[
+						"package insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"git s",
+						"git: status"
+					],
+					[
+						"git: bra",
+						"git: branch"
+					],
+					[
+						"snippet:decl",
+						"Snippet: declare_php"
+					],
+					[
+						"declare",
+						"Snippet: declare_php"
+					],
+					[
+						"git check",
+						"git: checkout new branch"
+					],
+					[
+						"mouse",
+						"Preferences: Mouse Bindings"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Key Bindings"
+					],
+					[
+						"git grap",
+						"git: graph"
+					],
+					[
+						"git new bra",
+						"git: checkout new branch"
+					],
+					[
+						"git",
+						"git: File History"
+					],
+					[
+						"Material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"mater",
+						"Material Theme: Configuration"
+					],
+					[
+						"git log",
+						"git: log"
+					],
+					[
+						"gitst",
+						"git: status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageControl",
+						"Package Control: Install Package"
+					],
+					[
+						"MaterialTheme",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"LSP",
+						"Package Control: List Packages"
+					],
+					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
+						"Maerial",
+						"Material Theme: Activate theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"Pack",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 196.0,
+				"history":
+				[
+					"exit",
+					"clear",
+					"exit",
+					"\n\nexit",
+					"cls",
+					"clear",
+					"ls",
+					"cls",
+					"clear",
+					"clear;",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
+				"/var/www/html/expensetrack.com/public/index.php",
+				"/home/fran/.config/qtile/settings/widgets.py",
+				"/home/fran/.config/qtile/settings/keys.py",
+				"/home/fran/.config/qtile/config.json",
+				"/home/fran/.config/qtile/themes/nord-desatured.json",
+				"/home/fran/.config/qtile/themes/nord-minimalist.json",
+				"/home/fran/.config/qtile/themes/everforest-soft.json",
+				"/home/fran/.config/qtile/themes/nord-frost.json",
+				"/home/fran/.config/qtile/settings/groups.py",
+				"/home/fran/.config/qtile/.gitignore",
+				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+				"/var/www/html/expensetrack.com/curl-example.php",
+				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+				"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
+				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+				"/var/www/html/expensetrack.com/app/App.php",
+				"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
+				"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
+				"/var/www/html/expensetrack.com/app/Container.php",
+				"/var/www/html/expensetrack.com/app/Router.php",
+				"/var/www/html/expensetrack.com/app/Config.php",
+				"/var/www/html/expensetrack.com/.env",
+				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+				"/var/www/html/expensetrack.com/app/Services/EmailService.php",
+				"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
+				"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/TransportInterface.php",
+				"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
+				"/var/www/html/expensetrack.com/app/DB.php",
+				"/var/www/html/expensetrack.com/eloquent.php",
+				"/var/www/html/expensetrack.com/cli-config.php",
+				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+				"/var/www/html/expensetrack.com/eloquent-example.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/Relation.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/DB.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/Facade.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php",
+				"/var/www/html/expensetrack.com/app/Entity/InvoiceItem.php",
+				"/var/www/html/expensetrack.com/app/Entity/Invoice.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasTimestamps.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250522225337.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
+				"/var/www/html/expensetrack.com/migrations.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+				"/var/www/html/expensetrack.com/composer.json",
+				"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
+				"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/persistence/src/Persistence/Event/LifecycleEventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/event-manager/src/EventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/PrePersist.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/date/date_c.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/QueryBuilder.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Composite.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Select.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Base.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Internal/NoUnknownNamedArguments.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.php",
+				"/var/www/html/expensetrack.com/views/index.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
+				"/var/www/html/expensetrack.com/app/Model.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
+				"/var/www/html/expensetrack.com/app/Transaction.php",
+				"/var/www/html/expensetrack.com/views/create.php",
+				"/var/www/html/expensetrack.com/app/Scripts/Email.php",
+				"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
+				"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
+				"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
+				"/var/www/html/expensetrack.com/views/user/create.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
+				"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
+				"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
+				"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
+				"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/AbstractTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/DataPart.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/File.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/Stream/AbstractStream.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/MailerInterface.php"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"menu_visible": false,
+			"output.GitSavvy":
+			{
+				"height": 101.0,
+				"history":
+				[
+				]
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 180.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 180.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.show_commit_info":
+			{
+				"height": 259.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/PHP/PHP.sublime-build",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ind",
+						"public/index.php"
+					],
+					[
+						"w",
+						"settings/widgets.py"
+					],
+					[
+						"ke",
+						"settings/keys.py"
+					],
+					[
+						"wi",
+						"settings/widgets.py"
+					],
+					[
+						"conf",
+						"config.json"
+					],
+					[
+						"key",
+						"settings/keys.py"
+					],
+					[
+						"gr",
+						"settings/groups.py"
+					],
+					[
+						"Inv",
+						"app/Models/Invoice.php"
+					],
+					[
+						"in",
+						"public/index.php"
+					],
+					[
+						"inv",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"In",
+						"app/Models/Invoice.php"
+					],
+					[
+						"invc",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Container",
+						"app/Container.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"App",
+						"app/App.php"
+					],
+					[
+						"InvCon",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Con",
+						"app/Container.php"
+					],
+					[
+						"invo",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invoiceCon",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Invo",
+						"app/Models/Invoice.php"
+					],
+					[
+						"el",
+						"eloquent.php"
+					],
+					[
+						"i",
+						"public/index.php"
+					],
+					[
+						"elo",
+						"eloquent.php"
+					],
+					[
+						"D",
+						"app/DB.php"
+					],
+					[
+						"InvoiceItem",
+						"app/Models/InvoiceItem.php"
+					],
+					[
+						"InvoiIte",
+						"app/Entity/InvoiceItem.php"
+					],
+					[
+						"Invoice",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"invoice",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"migr",
+						"migrations.php"
+					],
+					[
+						"cl",
+						"cli-config.php"
+					],
+					[
+						"mi/v",
+						"migrations/Version20250522225337.php"
+					],
+					[
+						"mi",
+						"migrations.php"
+					],
+					[
+						"cli",
+						"cli-config.php"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"Entit/",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"index",
+						"public/index.php"
+					],
+					[
+						"public",
+						"public/index.php"
+					],
+					[
+						"invoice index",
+						"views/invoice/index.php"
+					],
+					[
+						"index pu",
+						"public/index.php"
+					],
+					[
+						"inde",
+						"public/index.php"
+					],
+					[
+						"DB",
+						"app/DB.php"
+					],
+					[
+						"Inde",
+						"public/index.php"
+					],
+					[
+						"Comp",
+						"composer.json"
+					],
+					[
+						"hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"view inde",
+						"views/index.php"
+					],
+					[
+						"Ap",
+						"app/App.php"
+					],
+					[
+						"ho",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"creta",
+						"views/create.php"
+					],
+					[
+						"Tra",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Emailser",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Tras",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Ema",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Ems",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Em",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"invMo",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"invo index",
+						"views/invoice/index.php"
+					],
+					[
+						"invoi",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invomo",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"tes",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"test",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"Test",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"Compo",
+						"composer.json"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"create",
+						"views/user/create.php"
+					],
+					[
+						"Email",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"us",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"emsi",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Emai",
+						"app/Scripts/Email.php"
+					],
+					[
+						"usc",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"EMail",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"Address",
+						"vendor/symfony/mime/Address.php"
+					],
+					[
+						"EmailM",
+						"app/Models/EmailModel.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"EmailS",
+						"app/Services/EmailService.php"
+					],
+					[
+						"script ",
+						"app/Scripts/Email.php"
+					],
+					[
+						"script",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Model",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Script ema",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Emm",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"Em ser",
+						"app/Services/EmailService.php"
+					],
+					[
+						"use",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"env",
+						"vendor/symfony/mailer/Envelope.php"
+					],
+					[
+						"user",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"idne",
+						"vendor/symfony/mime/Encoder/IdnAddressEncoder.php"
+					],
+					[
+						"SmTp",
+						"app/Services/SmtpTransport.php"
+					],
+					[
+						"",
+						"vendor/symfony/mailer/Mailer.php"
+					],
+					[
+						"Home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"INDE",
+						"public/index.php"
+					],
+					[
+						"Teac",
+						"TeacherModel.php"
+					],
+					[
+						"Teachermodel",
+						"TeacherModel.php"
+					],
+					[
+						"inv index",
+						"views/invoice/index.php"
+					],
+					[
+						"H",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Pet",
+						"app/Pet.php"
+					],
+					[
+						"Que",
+						"app/QuestGiver.php"
+					],
+					[
+						"Drag",
+						"app/Dragon.php"
+					],
+					[
+						"ske",
+						"app/Skeleton.php"
+					],
+					[
+						"Mons",
+						"app/Monster.php"
+					],
+					[
+						"Zom",
+						"app/Zombie.php"
+					],
+					[
+						"S",
+						"app/Skeleton.php"
+					],
+					[
+						"n",
+						"app/Npc.php"
+					],
+					[
+						"Ske",
+						"app/Skeleton.php"
+					],
+					[
+						"invoce",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invois",
+						"app/Enums/InvoiceStatus.php"
+					],
+					[
+						"control",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Index",
+						"views/invoice/index.php"
+					],
+					[
+						"invoiceIn",
+						"views/invoice/index.php"
+					],
+					[
+						"Invoice/in",
+						"views/invoice/index.php"
+					],
+					[
+						"Inovi",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invoice/n",
+						"views/invoice/index.php"
+					],
+					[
+						"InvoiceStat",
+						"app/Models/InvoiceStatus.php"
+					],
+					[
+						"invoiceMod",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"invio",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"contro",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Post",
+						"app/Attributes/Post.php"
+					],
+					[
+						"Get",
+						"app/Attributes/Get.php"
+					],
+					[
+						"Pos",
+						"app/Attributes/Post.php"
+					],
+					[
+						"get",
+						"app/Attributes/Get.php"
+					],
+					[
+						"Route",
+						"app/Router.php"
+					],
+					[
+						"Hoe ",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Router",
+						"app/Attributes/Router.php"
+					],
+					[
+						"Rou",
+						"app/Attributes/Router.php"
+					],
+					[
+						"R",
+						"app/Router.php"
+					],
+					[
+						"home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"An",
+						"app/Animal.php"
+					],
+					[
+						"a",
+						"app/Animal.php"
+					],
+					[
+						"Dog",
+						"app/Dog.php"
+					],
+					[
+						"Cat",
+						"app/Cat.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 673.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"curl_get",
+						"curl_getinfo()"
+					],
+					[
+						"curl_set",
+						"curl_setopt_array()"
+					],
+					[
+						"CURLOPT_RE",
+						"CURLOPT_RETURNTRANSFER"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"App",
+						"App\\Controllers"
+					],
+					[
+						"decla",
+						"declare\tdeclare_php"
+					],
+					[
+						"php",
+						"php\tphp"
+					],
+					[
+						"CURLOP",
+						"CURLOPT_URL"
+					],
+					[
+						"CURLO",
+						"CURLOPT_URL"
+					],
+					[
+						"curl_ini",
+						"curl_init()"
+					],
+					[
+						"Carbon",
+						"Carbon [Carbon]"
+					],
+					[
+						"boot",
+						"booted"
+					],
+					[
+						"Container",
+						"Container [Illuminate\\Container]"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"addDa",
+						"addDays"
+					],
+					[
+						"DB",
+						"DB [Illuminate\\Support\\Facades]"
+					],
+					[
+						"Carbo",
+						"Carbon [Carbon]"
+					],
+					[
+						"forea",
+						"foreach\tforeach …"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"InvoiceIte",
+						"InvoiceItem [App\\Models]"
+					],
+					[
+						"PHP",
+						"PHP_EOL"
+					],
+					[
+						"invoice",
+						"invoice_number"
+					],
+					[
+						"fora",
+						"foreach\tforeach …"
+					],
+					[
+						"each",
+						"each"
+					],
+					[
+						"inv",
+						"$invoiceItem"
+					],
+					[
+						"i",
+						"$item"
+					],
+					[
+						"forac",
+						"foreach\tforeach …"
+					],
+					[
+						"InvoiceItem",
+						"InvoiceItem"
+					],
+					[
+						"Model",
+						"Model [Illuminate\\Database\\Eloquent]"
+					],
+					[
+						"declare",
+						"declare\tdeclare_php"
+					],
+					[
+						"Wi",
+						"withoutTimestamps"
+					],
+					[
+						"fore",
+						"foreach\tforeach …"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Invoice",
+						"Invoice [App\\Models]"
+					],
+					[
+						"notnull",
+						"setNotnull"
+					],
+					[
+						"Auto",
+						"setAutoincrement"
+					],
+					[
+						"dr",
+						"dropTable"
+					],
+					[
+						"DATETIME",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"text",
+						"TEXT"
+					],
+					[
+						"in",
+						"INTEGER"
+					],
+					[
+						"create",
+						"createdAt"
+					],
+					[
+						"Preper",
+						"PrePersistEventArgs"
+					],
+					[
+						"gt",
+						"gte"
+					],
+					[
+						"q",
+						"$query"
+					],
+					[
+						"foreac",
+						"foreach\tforeach …"
+					],
+					[
+						"f",
+						"flush"
+					],
+					[
+						"re",
+						"remove"
+					],
+					[
+						"invo",
+						"invoiceId"
+					],
+					[
+						"Config",
+						"Configuration"
+					],
+					[
+						"con",
+						"$connectionParams"
+					],
+					[
+						"Connection",
+						"Connection [Doctrine\\DBAL]"
+					],
+					[
+						"Enti",
+						"EntityManager"
+					],
+					[
+						"Inovice",
+						"InvoiceItem"
+					],
+					[
+						"Invo",
+						"InvoiceItem"
+					],
+					[
+						"Invoi",
+						"InvoiceItem"
+					],
+					[
+						"Collect",
+						"Collection"
+					],
+					[
+						"invoi",
+						"invoiceId"
+					],
+					[
+						"Inovi",
+						"invoice"
+					],
+					[
+						"ArrayC",
+						"ArrayCollection"
+					],
+					[
+						"Collec",
+						"Collection"
+					],
+					[
+						"One",
+						"OneToMany"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"tra",
+						"$transactionItem"
+					],
+					[
+						"exe",
+						"executeStatement"
+					],
+					[
+						"exce",
+						"executeStatement"
+					],
+					[
+						"fetch",
+						"fetchLazy"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"trans",
+						"transaction"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"bi",
+						"bindValue"
+					],
+					[
+						"feat",
+						"fetchAllAssociative"
+					],
+					[
+						"e",
+						"executeQuery"
+					],
+					[
+						"fetchA",
+						"fetchAllAssociative"
+					],
+					[
+						"fet",
+						"fetchAllAssociative"
+					],
+					[
+						"Para",
+						"ParameterType"
+					],
+					[
+						"Connectio",
+						"Connection [Doctrine\\DBAL]"
+					],
+					[
+						"listTab",
+						"listTableIndexes"
+					],
+					[
+						"conver",
+						"convertToPHPValue"
+					],
+					[
+						"listTa",
+						"listTableColumns"
+					],
+					[
+						"listTable",
+						"listTables"
+					],
+					[
+						"list",
+						"listDatabases"
+					],
+					[
+						"getData",
+						"getDatabasePlatform"
+					],
+					[
+						"_n",
+						"_ENV"
+					],
+					[
+						"__invo",
+						"__invoke"
+					],
+					[
+						"emai",
+						"$emailModel"
+					],
+					[
+						"email",
+						"$email"
+					],
+					[
+						"ema",
+						"$emailStatus"
+					],
+					[
+						"emst",
+						"$emailStatus"
+					],
+					[
+						"Transport",
+						"TransportInterface"
+					],
+					[
+						"req",
+						"$requestMethod"
+					],
+					[
+						"http_res",
+						"http_response_code()"
+					],
+					[
+						"try",
+						"try\tWrap in try { … } catch (…) { … }"
+					],
+					[
+						"math",
+						"match"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"FETCH",
+						"FETCH_OBJ"
+					],
+					[
+						"date",
+						"date()"
+					],
+					[
+						"time",
+						"time()"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"getH",
+						"getHtmlBody"
+					],
+					[
+						"subj",
+						"getSubject"
+					],
+					[
+						"Email",
+						"Email [Symfony\\Component\\Mime]"
+					],
+					[
+						"dec",
+						"decl\tdeclare strict_types"
+					],
+					[
+						"Smtp",
+						"SmtpTransport [Symfony\\Component\\Mailer\\Transport\\Smtp]"
+					],
+					[
+						"Transpor",
+						"Transport"
+					],
+					[
+						"Trans",
+						"Transport"
+					],
+					[
+						"Mailer",
+						"Mailer"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"alig",
+						"align-content"
+					],
+					[
+						"items",
+						"justify-items"
+					],
+					[
+						"ph",
+						"php\tphp"
+					],
+					[
+						"declar",
+						"declare\tdeclare_php"
+					],
+					[
+						"Color",
+						"Colors [App\\Enums]"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"sta",
+						"status"
+					],
+					[
+						"Mo",
+						"Models"
+					],
+					[
+						"in_arr",
+						"in_array()"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"FET",
+						"FETCH_OBJ"
+					],
+					[
+						"end",
+						"endforeach"
+					],
+					[
+						"G",
+						"Get"
+					],
+					[
+						"Attr",
+						"Attribute"
+					],
+					[
+						"r",
+						"routes"
+					],
+					[
+						"attr",
+						"$attributeRoute"
+					],
+					[
+						"attribute",
+						"$attributeRoute"
+					],
+					[
+						"atr",
+						"$attributes"
+					],
+					[
+						"count",
+						"count()"
+					],
+					[
+						"att",
+						"$attributes"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/PHP/PHP.sublime-build",
+							""
+						],
+						[
+							"Packages/PHP/PHP.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/PHP/PHP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"g",
+						"git: status"
+					],
+					[
+						"gi",
+						"git: status"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"gt",
+						"git: status"
+					],
+					[
+						"git ",
+						"git: status"
+					],
+					[
+						"gti sta",
+						"git: status"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"gits",
+						"git: status"
+					],
+					[
+						"g l",
+						"git: log"
+					],
+					[
+						"g b",
+						"git: branch"
+					],
+					[
+						"git st",
+						"git: status"
+					],
+					[
+						"snippet",
+						"Snippet: php"
+					],
+					[
+						"Snippet: ",
+						"Snippet: declare_php"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"gs",
+						"git: status"
+					],
+					[
+						"gis",
+						"git: status"
+					],
+					[
+						"git sta",
+						"git: status"
+					],
+					[
+						"git tat",
+						"git: status"
+					],
+					[
+						"new ",
+						"ANF: New File"
+					],
+					[
+						"new fi",
+						"ANF: New File"
+					],
+					[
+						"git br",
+						"git: branch"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"file",
+						"ANF: Rename File"
+					],
+					[
+						"rena",
+						"File: Rename File"
+					],
+					[
+						"package insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"git s",
+						"git: status"
+					],
+					[
+						"git: bra",
+						"git: branch"
+					],
+					[
+						"snippet:decl",
+						"Snippet: declare_php"
+					],
+					[
+						"declare",
+						"Snippet: declare_php"
+					],
+					[
+						"git check",
+						"git: checkout new branch"
+					],
+					[
+						"mouse",
+						"Preferences: Mouse Bindings"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Key Bindings"
+					],
+					[
+						"git grap",
+						"git: graph"
+					],
+					[
+						"git new bra",
+						"git: checkout new branch"
+					],
+					[
+						"git",
+						"git: File History"
+					],
+					[
+						"Material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"mater",
+						"Material Theme: Configuration"
+					],
+					[
+						"git log",
+						"git: log"
+					],
+					[
+						"gitst",
+						"git: status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageControl",
+						"Package Control: Install Package"
+					],
+					[
+						"MaterialTheme",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"LSP",
+						"Package Control: List Packages"
+					],
+					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
+						"Maerial",
+						"Material Theme: Activate theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"Pack",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 196.0,
+				"history":
+				[
+					"exit",
+					"clear",
+					"exit",
+					"\n\nexit",
+					"cls",
+					"clear",
+					"ls",
+					"cls",
+					"clear",
+					"clear;",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/www/html/expensetrack.com"
+			],
+			"file_history":
+			[
+				"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
+				"/var/www/html/expensetrack.com/public/index.php",
+				"/home/fran/.config/qtile/settings/widgets.py",
+				"/home/fran/.config/qtile/settings/keys.py",
+				"/home/fran/.config/qtile/config.json",
+				"/home/fran/.config/qtile/themes/nord-desatured.json",
+				"/home/fran/.config/qtile/themes/nord-minimalist.json",
+				"/home/fran/.config/qtile/themes/everforest-soft.json",
+				"/home/fran/.config/qtile/themes/nord-frost.json",
+				"/home/fran/.config/qtile/settings/groups.py",
+				"/home/fran/.config/qtile/.gitignore",
+				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+				"/var/www/html/expensetrack.com/curl-example.php",
+				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+				"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
+				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+				"/var/www/html/expensetrack.com/app/App.php",
+				"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
+				"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
+				"/var/www/html/expensetrack.com/app/Container.php",
+				"/var/www/html/expensetrack.com/app/Router.php",
+				"/var/www/html/expensetrack.com/app/Config.php",
+				"/var/www/html/expensetrack.com/.env",
+				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+				"/var/www/html/expensetrack.com/app/Services/EmailService.php",
+				"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
+				"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/TransportInterface.php",
+				"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
+				"/var/www/html/expensetrack.com/app/DB.php",
+				"/var/www/html/expensetrack.com/eloquent.php",
+				"/var/www/html/expensetrack.com/cli-config.php",
+				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+				"/var/www/html/expensetrack.com/eloquent-example.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/Relation.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/DB.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/support/Facades/Facade.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php",
+				"/var/www/html/expensetrack.com/app/Entity/InvoiceItem.php",
+				"/var/www/html/expensetrack.com/app/Entity/Invoice.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasTimestamps.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250522225337.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
+				"/var/www/html/expensetrack.com/migrations.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+				"/var/www/html/expensetrack.com/composer.json",
+				"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
+				"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/persistence/src/Persistence/Event/LifecycleEventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/event-manager/src/EventArgs.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/PrePersist.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/date/date_c.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/QueryBuilder.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Composite.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Select.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Base.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Internal/NoUnknownNamedArguments.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.php",
+				"/var/www/html/expensetrack.com/views/index.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
+				"/var/www/html/expensetrack.com/app/Model.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
+				"/var/www/html/expensetrack.com/app/Transaction.php",
+				"/var/www/html/expensetrack.com/views/create.php",
+				"/var/www/html/expensetrack.com/app/Scripts/Email.php",
+				"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
+				"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
+				"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
+				"/var/www/html/expensetrack.com/views/user/create.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
+				"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
+				"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
+				"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
+				"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/AbstractTransport.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/DataPart.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/File.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/Stream/AbstractStream.php",
+				"/var/www/html/expensetrack.com/vendor/symfony/mailer/MailerInterface.php"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/var/www/html/expensetrack.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.GitSavvy":
+			{
+				"height": 101.0,
+				"history":
+				[
+				]
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 180.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 180.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.show_commit_info":
+			{
+				"height": 259.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/PHP/PHP.sublime-build",
+			"position": "0,0,0,0,0,687,28,1360,762,1366,768,2",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ind",
+						"public/index.php"
+					],
+					[
+						"w",
+						"settings/widgets.py"
+					],
+					[
+						"ke",
+						"settings/keys.py"
+					],
+					[
+						"wi",
+						"settings/widgets.py"
+					],
+					[
+						"conf",
+						"config.json"
+					],
+					[
+						"key",
+						"settings/keys.py"
+					],
+					[
+						"gr",
+						"settings/groups.py"
+					],
+					[
+						"Inv",
+						"app/Models/Invoice.php"
+					],
+					[
+						"in",
+						"public/index.php"
+					],
+					[
+						"inv",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"In",
+						"app/Models/Invoice.php"
+					],
+					[
+						"invc",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Container",
+						"app/Container.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"App",
+						"app/App.php"
+					],
+					[
+						"InvCon",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Con",
+						"app/Container.php"
+					],
+					[
+						"invo",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invoiceCon",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Invo",
+						"app/Models/Invoice.php"
+					],
+					[
+						"el",
+						"eloquent.php"
+					],
+					[
+						"i",
+						"public/index.php"
+					],
+					[
+						"elo",
+						"eloquent.php"
+					],
+					[
+						"D",
+						"app/DB.php"
+					],
+					[
+						"InvoiceItem",
+						"app/Models/InvoiceItem.php"
+					],
+					[
+						"InvoiIte",
+						"app/Entity/InvoiceItem.php"
+					],
+					[
+						"Invoice",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"invoice",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"migr",
+						"migrations.php"
+					],
+					[
+						"cl",
+						"cli-config.php"
+					],
+					[
+						"mi/v",
+						"migrations/Version20250522225337.php"
+					],
+					[
+						"mi",
+						"migrations.php"
+					],
+					[
+						"cli",
+						"cli-config.php"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"Entit/",
+						"app/Entity/Invoice.php"
+					],
+					[
+						"index",
+						"public/index.php"
+					],
+					[
+						"public",
+						"public/index.php"
+					],
+					[
+						"invoice index",
+						"views/invoice/index.php"
+					],
+					[
+						"index pu",
+						"public/index.php"
+					],
+					[
+						"inde",
+						"public/index.php"
+					],
+					[
+						"DB",
+						"app/DB.php"
+					],
+					[
+						"Inde",
+						"public/index.php"
+					],
+					[
+						"Comp",
+						"composer.json"
+					],
+					[
+						"hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"view inde",
+						"views/index.php"
+					],
+					[
+						"Ap",
+						"app/App.php"
+					],
+					[
+						"ho",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"creta",
+						"views/create.php"
+					],
+					[
+						"Tra",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Emailser",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Tras",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Ema",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Ems",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Em",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"invMo",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"invo index",
+						"views/invoice/index.php"
+					],
+					[
+						"invoi",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invomo",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"tes",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"test",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"Test",
+						"app/Controllers/TestController.php"
+					],
+					[
+						"Compo",
+						"composer.json"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"create",
+						"views/user/create.php"
+					],
+					[
+						"Email",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"us",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"emsi",
+						"app/Services/EmailService.php"
+					],
+					[
+						"Emai",
+						"app/Scripts/Email.php"
+					],
+					[
+						"usc",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"EMail",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"Address",
+						"vendor/symfony/mime/Address.php"
+					],
+					[
+						"EmailM",
+						"app/Models/EmailModel.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"EmailS",
+						"app/Services/EmailService.php"
+					],
+					[
+						"script ",
+						"app/Scripts/Email.php"
+					],
+					[
+						"script",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Model",
+						"app/Models/TransactionModel.php"
+					],
+					[
+						"Script ema",
+						"app/Scripts/Email.php"
+					],
+					[
+						"Emm",
+						"app/Models/EmailModel.php"
+					],
+					[
+						"Em ser",
+						"app/Services/EmailService.php"
+					],
+					[
+						"use",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"env",
+						"vendor/symfony/mailer/Envelope.php"
+					],
+					[
+						"user",
+						"app/Controllers/UserController.php"
+					],
+					[
+						"idne",
+						"vendor/symfony/mime/Encoder/IdnAddressEncoder.php"
+					],
+					[
+						"SmTp",
+						"app/Services/SmtpTransport.php"
+					],
+					[
+						"",
+						"vendor/symfony/mailer/Mailer.php"
+					],
+					[
+						"Home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"INDE",
+						"public/index.php"
+					],
+					[
+						"Teac",
+						"TeacherModel.php"
+					],
+					[
+						"Teachermodel",
+						"TeacherModel.php"
+					],
+					[
+						"inv index",
+						"views/invoice/index.php"
+					],
+					[
+						"H",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Pet",
+						"app/Pet.php"
+					],
+					[
+						"Que",
+						"app/QuestGiver.php"
+					],
+					[
+						"Drag",
+						"app/Dragon.php"
+					],
+					[
+						"ske",
+						"app/Skeleton.php"
+					],
+					[
+						"Mons",
+						"app/Monster.php"
+					],
+					[
+						"Zom",
+						"app/Zombie.php"
+					],
+					[
+						"S",
+						"app/Skeleton.php"
+					],
+					[
+						"n",
+						"app/Npc.php"
+					],
+					[
+						"Ske",
+						"app/Skeleton.php"
+					],
+					[
+						"invoce",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invois",
+						"app/Enums/InvoiceStatus.php"
+					],
+					[
+						"control",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"Index",
+						"views/invoice/index.php"
+					],
+					[
+						"invoiceIn",
+						"views/invoice/index.php"
+					],
+					[
+						"Invoice/in",
+						"views/invoice/index.php"
+					],
+					[
+						"Inovi",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"invoice/n",
+						"views/invoice/index.php"
+					],
+					[
+						"InvoiceStat",
+						"app/Models/InvoiceStatus.php"
+					],
+					[
+						"invoiceMod",
+						"app/Models/InvoiceModel.php"
+					],
+					[
+						"invio",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"contro",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Post",
+						"app/Attributes/Post.php"
+					],
+					[
+						"Get",
+						"app/Attributes/Get.php"
+					],
+					[
+						"Pos",
+						"app/Attributes/Post.php"
+					],
+					[
+						"get",
+						"app/Attributes/Get.php"
+					],
+					[
+						"Route",
+						"app/Router.php"
+					],
+					[
+						"Hoe ",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Router",
+						"app/Attributes/Router.php"
+					],
+					[
+						"Rou",
+						"app/Attributes/Router.php"
+					],
+					[
+						"R",
+						"app/Router.php"
+					],
+					[
+						"home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"An",
+						"app/Animal.php"
+					],
+					[
+						"a",
+						"app/Animal.php"
+					],
+					[
+						"Dog",
+						"app/Dog.php"
+					],
+					[
+						"Cat",
+						"app/Cat.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"lsp_show_inlay_hints": false
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 52,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
