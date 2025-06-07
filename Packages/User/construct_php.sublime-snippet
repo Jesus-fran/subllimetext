@@ -1,9 +1,6 @@
 <snippet>
 	<content><![CDATA[
-public function __construct ()
-{
-	${1:#code}
-}
+public function __construct (${1:}) {}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>construct</tabTrigger>

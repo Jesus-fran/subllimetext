@@ -13,4 +13,7 @@
 	"show_full_path": false,
 	"show_line_column": "disabled",
 	"material_theme_small_statusbar": true,
+	"hot_exit": "disabled",
+	"gtk_client_side_window_decorations": true,
+
 }

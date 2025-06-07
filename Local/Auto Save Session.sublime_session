@@ -1,36 +1,96 @@
 {
 	"file_history":
 	[
-		"/var/www/html/expensetrack.com/public/index.php",
 		"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-		"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
 		"/home/fran/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
 		"/home/fran/.config/sublime-text/Packages/Material Theme/Material-Theme.sublime-theme",
 		"/home/fran/.config/sublime-text/Packages/User/Material-Theme.sublime-theme",
+		"/var/www/html/expensetrack.com/public/index.php",
+		"/var/www/html/expensetrack.com/app/configs/container_bindings.php",
+		"/var/www/html/expensetrack.com/app/configs/path_constants.php",
+		"/var/www/html/expensetrack.com/.env",
+		"/var/www/html/expensetrack.com/app/Config.php",
+		"/var/www/html/expensetrack.com/views/index.html.twig",
+		"/var/www/html/expensetrack.com/cli-config.php",
+		"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+		"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+		"/var/www/html/expensetrack.com/app/configs/routes.php",
+		"/var/www/html/expensetrack.com/app/configs/container.php",
+		"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+		"/var/www/html/expensetrack.com/views/invoice/index.html.twig",
+		"/var/www/html/expensetrack.com/app/Services/Invoice/InvoiceService.php",
+		"/var/www/html/expensetrack.com/app/App.php",
+		"/var/www/html/expensetrack.com/composer.json",
+		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/EntityManager.php",
+		"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+		"/var/www/html/expensetrack.com/vendor/slim/twig-view/src/Twig.php",
+		"/var/www/html/expensetrack.com/app/Models/Transaction.php",
+		"/var/www/html/expensetrack.com/vendor/slim/slim/Slim/Factory/AppFactory.php",
+		"/var/www/html/expensetrack.com/public/.htaccess",
+		"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+		"/var/www/html/expensetrack.com/app/Contracts/EmailValidationInterface.php",
+		"/var/www/html/expensetrack.com/app/DTO/EmailValidationResult.php",
+		"/var/www/html/expensetrack.com/app/Controllers/ErrorsController.php",
+		"/var/www/html/expensetrack.com/views/errors/404.html.twig",
+		"/var/www/html/expensetrack.com/app/View.php",
+		"/var/www/html/expensetrack.com/app/cast/AsMoney.php",
+		"/var/www/html/expensetrack.com/migrations/Version20250604202503.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Schema.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+		"/var/www/html/expensetrack.com/migrations/Version20250603195100.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+		"/var/www/html/expensetrack.com/views/create.html.twig",
+		"/var/www/html/expensetrack.com/app/Transaction.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Casts/Attribute.php",
+		"/var/www/html/expensetrack.com/app/Money.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/contracts/Database/Eloquent/CastsAttributes.php",
+		"/var/www/html/expensetrack.com/views/layout.html.twig",
+		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+		"/var/www/html/expensetrack.com/views/invoice/index.twig",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+		"/var/www/html/expensetrack.com/vendor/twig/twig/src/Environment.php",
+		"/var/www/html/expensetrack.com/vendor/twig/twig/src/TwigFunction.php",
+		"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+		"/var/www/html/expensetrack.com/example-value-object.php",
+		"/var/www/html/expensetrack.com/app/Services/PackageDimension.php",
+		"/var/www/html/expensetrack.com/app/Services/BillableWeightCalculatorService.php",
+		"/var/www/html/expensetrack.com/app/Services/DimDivisor.php",
+		"/var/www/html/expensetrack.com/app/DimDivisor.php",
+		"/var/www/html/expensetrack.com/app/Services/Weight.php",
+		"/var/www/html/expensetrack.com/eloquent-example.php",
+		"/home/fran/.config/qtile/settings/widgets.py",
+		"/home/fran/.config/qtile/settings/groups.py",
+		"/var/www/html/expensetrack.com/app/Router.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/container/Container.php",
+		"/home/fran/.config/qtile/settings/keys.py",
+		"/var/www/html/expensetrack.com/app/Services/Emailable/EmailValidationService.php",
+		"/var/www/html/expensetrack.com/app/Services/AbstractApi/EmailValidationService.php",
+		"/var/www/html/expensetrack.com/app/Services/GuzzleMiddleware.php",
+		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/SPL/SPL.php",
+		"/var/www/html/expensetrack.com/app/Services/AbstractAPi/EmailValidationService.php",
+		"/var/www/html/expensetrack.com/tet.txt",
+		"/var/www/html/expensetrack.com/app/Services/EmailValidationService.php",
+		"/var/www/html/expensetrack.com/vendor/guzzlehttp/guzzle/src/ClientTrait.php",
+		"/var/www/html/expensetrack.com/vendor/psr/http-message/src/MessageInterface.php",
+		"/var/www/html/expensetrack.com/vendor/psr/http-message/src/StreamInterface.php",
+		"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
 		"/home/fran/.config/sublime-text/Packages/Material Theme/Material-Theme-Palenight.sublime-theme",
 		"/home/fran/.config/sublime-text/Packages/User/Material-Theme-Palenight.sublime-theme",
-		"/home/fran/.config/qtile/settings/widgets.py",
-		"/home/fran/.config/qtile/settings/keys.py",
 		"/home/fran/.config/qtile/config.json",
 		"/home/fran/.config/qtile/themes/nord-desatured.json",
 		"/home/fran/.config/qtile/themes/nord-minimalist.json",
 		"/home/fran/.config/qtile/themes/everforest-soft.json",
 		"/home/fran/.config/qtile/themes/nord-frost.json",
-		"/home/fran/.config/qtile/settings/groups.py",
 		"/home/fran/.config/qtile/.gitignore",
-		"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
 		"/var/www/html/expensetrack.com/curl-example.php",
-		"/var/www/html/expensetrack.com/app/Models/Invoice.php",
 		"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
-		"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
-		"/var/www/html/expensetrack.com/app/App.php",
 		"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
 		"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
 		"/var/www/html/expensetrack.com/app/Container.php",
-		"/var/www/html/expensetrack.com/app/Router.php",
-		"/var/www/html/expensetrack.com/app/Config.php",
-		"/var/www/html/expensetrack.com/.env",
-		"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
 		"/var/www/html/expensetrack.com/app/Services/EmailService.php",
 		"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
 		"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
@@ -38,16 +98,9 @@
 		"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
 		"/var/www/html/expensetrack.com/app/DB.php",
 		"/var/www/html/expensetrack.com/eloquent.php",
-		"/var/www/html/expensetrack.com/cli-config.php",
-		"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
-		"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
-		"/var/www/html/expensetrack.com/eloquent-example.php",
-		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
-		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
-		"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
 		"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
@@ -62,10 +115,6 @@
 		"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
 		"/var/www/html/expensetrack.com/migrations.php",
 		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
-		"/var/www/html/expensetrack.com/composer.json",
 		"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
 		"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
 		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
@@ -79,56 +128,7 @@
 		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Select.php",
 		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Query/Expr/Base.php",
 		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Internal/NoUnknownNamedArguments.php",
-		"/var/www/html/expensetrack.com/views/invoice/index.php",
-		"/var/www/html/expensetrack.com/views/index.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
-		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
-		"/home/fran/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
-		"/home/fran/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
-		"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
-		"/var/www/html/expensetrack.com/app/Model.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
-		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
-		"/var/www/html/expensetrack.com/app/Transaction.php",
-		"/var/www/html/expensetrack.com/views/create.php",
-		"/var/www/html/expensetrack.com/app/Scripts/Email.php",
-		"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
-		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
-		"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
-		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
-		"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
-		"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
-		"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
-		"/var/www/html/expensetrack.com/views/user/create.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
-		"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
-		"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
-		"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
-		"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
-		"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php"
+		"/var/www/html/expensetrack.com/views/invoice/index.php"
 	],
 	"folder_history":
 	[
@@ -138,18 +138,18 @@
 		"/home/fran/Projects/learnphp.com"
 	],
 	"last_version": 4200,
-	"last_window_id": 54,
+	"last_window_id": 71,
 	"log_indexing": false,
-	"next_update_check": 1748446834,
+	"next_update_check": 1749397234,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 744.0,
-		"new_window_maximized": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
 		"new_window_position":
 		[
 			0.0,
-			24.0
+			46.0
 		],
 		"new_window_settings":
 		{
@@ -157,6 +157,334 @@
 			{
 				"selected_items":
 				[
+					[
+						"_",
+						"$_ENV"
+					],
+					[
+						"Invoice",
+						"InvoiceController"
+					],
+					[
+						"App",
+						"App"
+					],
+					[
+						"decalre",
+						"declare\tdeclare_php"
+					],
+					[
+						"php",
+						"php\tphp"
+					],
+					[
+						"conta",
+						"$containerBuilder"
+					],
+					[
+						"Confi",
+						"Config [App]"
+					],
+					[
+						"Confgi",
+						"Config [App]"
+					],
+					[
+						"e",
+						"$entityManager"
+					],
+					[
+						"InvoiceServic",
+						"InvoiceService [App\\Services\\Invoice]"
+					],
+					[
+						"const",
+						"construct\tconstruct_php"
+					],
+					[
+						"decla",
+						"declare\tdeclare_php"
+					],
+					[
+						"t",
+						"$twig"
+					],
+					[
+						"T",
+						"Twig"
+					],
+					[
+						"Twig",
+						"TwigFunction"
+					],
+					[
+						"inv",
+						"$invoiceService"
+					],
+					[
+						"Containe",
+						"Container"
+					],
+					[
+						"req",
+						"$request"
+					],
+					[
+						"re",
+						"$response"
+					],
+					[
+						"Twi",
+						"Twig"
+					],
+					[
+						"declare",
+						"declare\tdeclare_php"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"transaction",
+						"$transactionModel"
+					],
+					[
+						"Transactio",
+						"Transaction [App]"
+					],
+					[
+						"trans",
+						"transactions"
+					],
+					[
+						"ren",
+						"render"
+					],
+					[
+						"tota",
+						"$totalIncome"
+					],
+					[
+						"stat",
+						"static"
+					],
+					[
+						"last",
+						"last"
+					],
+					[
+						"total",
+						"$totalIncome"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"Tw",
+						"TwigFunction"
+					],
+					[
+						"Attribut",
+						"Attribute [Illuminate\\Database\\Eloquent\\Casts]"
+					],
+					[
+						"Attr",
+						"Attribute"
+					],
+					[
+						"fnct",
+						"function"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Cats",
+						"CastsAttributes"
+					],
+					[
+						"decal",
+						"declare\tdeclare_php"
+					],
+					[
+						"Transa",
+						"Transaction [App]"
+					],
+					[
+						"Transaction",
+						"Transaction [App\\Models]"
+					],
+					[
+						"DATEtIME",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"dr",
+						"dropTable"
+					],
+					[
+						"DATEt",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"ad",
+						"addColumn"
+					],
+					[
+						"create",
+						"createTable"
+					],
+					[
+						"Transact",
+						"Transactions"
+					],
+					[
+						"Model",
+						"Model"
+					],
+					[
+						"addF",
+						"addFunction"
+					],
+					[
+						"wi",
+						"$widerBillableWeight"
+					],
+					[
+						"billa",
+						"$billableWeightSevice"
+					],
+					[
+						"package",
+						"$packageDimension"
+					],
+					[
+						"dimDiviso",
+						"DimDivisor"
+					],
+					[
+						"packa",
+						"$packageDimension"
+					],
+					[
+						"mat",
+						"match\tmatch …"
+					],
+					[
+						"dim",
+						"$dimWeight"
+					],
+					[
+						"d",
+						"width"
+					],
+					[
+						"di",
+						"$dimWeight"
+					],
+					[
+						"lg",
+						"$length"
+					],
+					[
+						"w",
+						"$width"
+					],
+					[
+						"EmailVa",
+						"EmailValidationResult"
+					],
+					[
+						"Emailva",
+						"EmailValidationResult"
+					],
+					[
+						"EmailValida",
+						"EmailValidationResult"
+					],
+					[
+						"Emailv",
+						"EmailValidationResult"
+					],
+					[
+						"namesa",
+						"namespace"
+					],
+					[
+						"EmailValidationServic",
+						"EmailValidationService [App\\Services\\Emailable]"
+					],
+					[
+						"EmailValidationService",
+						"EmailValidationService [App\\Services\\Emailable]"
+					],
+					[
+						"g",
+						"$guzzleMiddleware"
+					],
+					[
+						"Guzz",
+						"GuzzleMiddleware"
+					],
+					[
+						"RequestInterfac",
+						"RequestInterface"
+					],
+					[
+						"EmailValidation",
+						"EmailValidationService [App\\Services\\AbstractApi]"
+					],
+					[
+						"Emal",
+						"EmailValidationInterface"
+					],
+					[
+						"emailVa",
+						"EmailValidationInterface"
+					],
+					[
+						"EmailVAli",
+						"EmailValidationInterface"
+					],
+					[
+						"Email",
+						"EmailValidationInterface"
+					],
+					[
+						"ret",
+						"$retries"
+					],
+					[
+						"Middlew",
+						"Middleware [GuzzleHttp]"
+					],
+					[
+						"tac",
+						"$stack"
+					],
+					[
+						"bas",
+						"baseUrl"
+					],
+					[
+						"con",
+						"config"
+					],
+					[
+						"deca",
+						"declare\tdeclare_php"
+					],
+					[
+						"emailValidat",
+						"$emailValidationService"
+					],
+					[
+						"end",
+						"endPoint"
+					],
 					[
 						"curl_get",
 						"curl_getinfo()"
@@ -168,22 +496,6 @@
 					[
 						"CURLOPT_RE",
 						"CURLOPT_RETURNTRANSFER"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"App",
-						"App\\Controllers"
-					],
-					[
-						"decla",
-						"declare\tdeclare_php"
-					],
-					[
-						"php",
-						"php\tphp"
 					],
 					[
 						"CURLOP",
@@ -208,10 +520,6 @@
 					[
 						"Container",
 						"Container [Illuminate\\Container]"
-					],
-					[
-						"ex",
-						"exit"
 					],
 					[
 						"addDa",
@@ -254,10 +562,6 @@
 						"each"
 					],
 					[
-						"inv",
-						"$invoiceItem"
-					],
-					[
 						"i",
 						"$item"
 					],
@@ -268,14 +572,6 @@
 					[
 						"InvoiceItem",
 						"InvoiceItem"
-					],
-					[
-						"Model",
-						"Model [Illuminate\\Database\\Eloquent]"
-					],
-					[
-						"declare",
-						"declare\tdeclare_php"
 					],
 					[
 						"Wi",
@@ -290,20 +586,12 @@
 						"for\tfor …"
 					],
 					[
-						"Invoice",
-						"Invoice [App\\Models]"
-					],
-					[
 						"notnull",
 						"setNotnull"
 					],
 					[
 						"Auto",
 						"setAutoincrement"
-					],
-					[
-						"dr",
-						"dropTable"
 					],
 					[
 						"DATETIME",
@@ -316,10 +604,6 @@
 					[
 						"in",
 						"INTEGER"
-					],
-					[
-						"create",
-						"createdAt"
 					],
 					[
 						"Preper",
@@ -342,20 +626,12 @@
 						"flush"
 					],
 					[
-						"re",
-						"remove"
-					],
-					[
 						"invo",
 						"invoiceId"
 					],
 					[
 						"Config",
 						"Configuration"
-					],
-					[
-						"con",
-						"$connectionParams"
 					],
 					[
 						"Connection",
@@ -392,282 +668,6 @@
 					[
 						"ArrayC",
 						"ArrayCollection"
-					],
-					[
-						"Collec",
-						"Collection"
-					],
-					[
-						"One",
-						"OneToMany"
-					],
-					[
-						"na",
-						"namespace"
-					],
-					[
-						"tra",
-						"$transactionItem"
-					],
-					[
-						"exe",
-						"executeStatement"
-					],
-					[
-						"exce",
-						"executeStatement"
-					],
-					[
-						"fetch",
-						"fetchLazy"
-					],
-					[
-						"prin",
-						"print_r"
-					],
-					[
-						"trans",
-						"transaction"
-					],
-					[
-						"pre",
-						"prepare"
-					],
-					[
-						"bi",
-						"bindValue"
-					],
-					[
-						"feat",
-						"fetchAllAssociative"
-					],
-					[
-						"e",
-						"executeQuery"
-					],
-					[
-						"fetchA",
-						"fetchAllAssociative"
-					],
-					[
-						"fet",
-						"fetchAllAssociative"
-					],
-					[
-						"Para",
-						"ParameterType"
-					],
-					[
-						"Connectio",
-						"Connection [Doctrine\\DBAL]"
-					],
-					[
-						"listTab",
-						"listTableIndexes"
-					],
-					[
-						"conver",
-						"convertToPHPValue"
-					],
-					[
-						"listTa",
-						"listTableColumns"
-					],
-					[
-						"listTable",
-						"listTables"
-					],
-					[
-						"list",
-						"listDatabases"
-					],
-					[
-						"getData",
-						"getDatabasePlatform"
-					],
-					[
-						"_n",
-						"_ENV"
-					],
-					[
-						"__invo",
-						"__invoke"
-					],
-					[
-						"emai",
-						"$emailModel"
-					],
-					[
-						"email",
-						"$email"
-					],
-					[
-						"ema",
-						"$emailStatus"
-					],
-					[
-						"emst",
-						"$emailStatus"
-					],
-					[
-						"Transport",
-						"TransportInterface"
-					],
-					[
-						"req",
-						"$requestMethod"
-					],
-					[
-						"http_res",
-						"http_response_code()"
-					],
-					[
-						"try",
-						"try\tWrap in try { … } catch (…) { … }"
-					],
-					[
-						"math",
-						"match"
-					],
-					[
-						"json_",
-						"json_encode"
-					],
-					[
-						"sub",
-						"subject"
-					],
-					[
-						"FETCH",
-						"FETCH_OBJ"
-					],
-					[
-						"date",
-						"date()"
-					],
-					[
-						"time",
-						"time()"
-					],
-					[
-						"crea",
-						"created_at"
-					],
-					[
-						"getH",
-						"getHtmlBody"
-					],
-					[
-						"subj",
-						"getSubject"
-					],
-					[
-						"Email",
-						"Email [Symfony\\Component\\Mime]"
-					],
-					[
-						"dec",
-						"decl\tdeclare strict_types"
-					],
-					[
-						"Smtp",
-						"SmtpTransport [Symfony\\Component\\Mailer\\Transport\\Smtp]"
-					],
-					[
-						"Transpor",
-						"Transport"
-					],
-					[
-						"Trans",
-						"Transport"
-					],
-					[
-						"Mailer",
-						"Mailer"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"alig",
-						"align-content"
-					],
-					[
-						"items",
-						"justify-items"
-					],
-					[
-						"ph",
-						"php\tphp"
-					],
-					[
-						"declar",
-						"declare\tdeclare_php"
-					],
-					[
-						"Color",
-						"Colors [App\\Enums]"
-					],
-					[
-						"stat",
-						"status"
-					],
-					[
-						"sta",
-						"status"
-					],
-					[
-						"Mo",
-						"Models"
-					],
-					[
-						"in_arr",
-						"in_array()"
-					],
-					[
-						"if",
-						"if\tif …"
-					],
-					[
-						"FET",
-						"FETCH_OBJ"
-					],
-					[
-						"end",
-						"endforeach"
-					],
-					[
-						"G",
-						"Get"
-					],
-					[
-						"Attr",
-						"Attribute"
-					],
-					[
-						"r",
-						"routes"
-					],
-					[
-						"attr",
-						"$attributeRoute"
-					],
-					[
-						"attribute",
-						"$attributeRoute"
-					],
-					[
-						"atr",
-						"$attributes"
-					],
-					[
-						"count",
-						"count()"
-					],
-					[
-						"att",
-						"$attributes"
 					]
 				]
 			},
@@ -698,12 +698,24 @@
 				"selected_items":
 				[
 					[
-						"settin",
+						"setting",
 						"Preferences: Settings"
 					],
 					[
-						"setting",
-						"Preferences: Settings"
+						"materia",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"title",
+						"Material Theme: Extras"
+					],
+					[
+						"ui",
+						"UI: Customize Theme"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
 					],
 					[
 						"sett",
@@ -712,6 +724,22 @@
 					[
 						"g",
 						"git: status"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"gs",
+						"git: status"
+					],
+					[
+						"snipper",
+						"Snippet: construct_php"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
 					],
 					[
 						"gi",
@@ -764,10 +792,6 @@
 					[
 						"delete",
 						"ANF: Delete Current File"
-					],
-					[
-						"gs",
-						"git: status"
 					],
 					[
 						"gis",
@@ -942,30 +966,91 @@
 			"file_history":
 			[
 				"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/fran/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 				"/var/www/html/expensetrack.com/public/index.php",
+				"/var/www/html/expensetrack.com/app/configs/container_bindings.php",
+				"/var/www/html/expensetrack.com/app/configs/path_constants.php",
+				"/var/www/html/expensetrack.com/.env",
+				"/var/www/html/expensetrack.com/app/Config.php",
+				"/var/www/html/expensetrack.com/views/index.html.twig",
+				"/var/www/html/expensetrack.com/cli-config.php",
+				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+				"/var/www/html/expensetrack.com/app/configs/routes.php",
+				"/var/www/html/expensetrack.com/app/configs/container.php",
+				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.html.twig",
+				"/var/www/html/expensetrack.com/app/Services/Invoice/InvoiceService.php",
+				"/var/www/html/expensetrack.com/app/App.php",
+				"/var/www/html/expensetrack.com/composer.json",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/EntityManager.php",
+				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+				"/var/www/html/expensetrack.com/vendor/slim/twig-view/src/Twig.php",
+				"/var/www/html/expensetrack.com/app/Models/Transaction.php",
+				"/var/www/html/expensetrack.com/vendor/slim/slim/Slim/Factory/AppFactory.php",
+				"/var/www/html/expensetrack.com/public/.htaccess",
+				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+				"/var/www/html/expensetrack.com/app/Contracts/EmailValidationInterface.php",
+				"/var/www/html/expensetrack.com/app/DTO/EmailValidationResult.php",
+				"/var/www/html/expensetrack.com/app/Controllers/ErrorsController.php",
+				"/var/www/html/expensetrack.com/views/errors/404.html.twig",
+				"/var/www/html/expensetrack.com/app/View.php",
+				"/var/www/html/expensetrack.com/app/cast/AsMoney.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250604202503.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Schema.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250603195100.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+				"/var/www/html/expensetrack.com/views/create.html.twig",
+				"/var/www/html/expensetrack.com/app/Transaction.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Casts/Attribute.php",
+				"/var/www/html/expensetrack.com/app/Money.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/contracts/Database/Eloquent/CastsAttributes.php",
+				"/var/www/html/expensetrack.com/views/layout.html.twig",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.twig",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+				"/var/www/html/expensetrack.com/vendor/twig/twig/src/Environment.php",
+				"/var/www/html/expensetrack.com/vendor/twig/twig/src/TwigFunction.php",
+				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+				"/var/www/html/expensetrack.com/example-value-object.php",
+				"/var/www/html/expensetrack.com/app/Services/PackageDimension.php",
+				"/var/www/html/expensetrack.com/app/Services/BillableWeightCalculatorService.php",
+				"/var/www/html/expensetrack.com/app/Services/DimDivisor.php",
+				"/var/www/html/expensetrack.com/app/DimDivisor.php",
+				"/var/www/html/expensetrack.com/app/Services/Weight.php",
+				"/var/www/html/expensetrack.com/eloquent-example.php",
 				"/home/fran/.config/qtile/settings/widgets.py",
+				"/home/fran/.config/qtile/settings/groups.py",
+				"/var/www/html/expensetrack.com/app/Router.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/container/Container.php",
 				"/home/fran/.config/qtile/settings/keys.py",
+				"/var/www/html/expensetrack.com/app/Services/Emailable/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/app/Services/AbstractApi/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/app/Services/GuzzleMiddleware.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/SPL/SPL.php",
+				"/var/www/html/expensetrack.com/app/Services/AbstractAPi/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/tet.txt",
+				"/var/www/html/expensetrack.com/app/Services/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/vendor/guzzlehttp/guzzle/src/ClientTrait.php",
+				"/var/www/html/expensetrack.com/vendor/psr/http-message/src/MessageInterface.php",
+				"/var/www/html/expensetrack.com/vendor/psr/http-message/src/StreamInterface.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
+				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
 				"/home/fran/.config/qtile/config.json",
 				"/home/fran/.config/qtile/themes/nord-desatured.json",
 				"/home/fran/.config/qtile/themes/nord-minimalist.json",
 				"/home/fran/.config/qtile/themes/everforest-soft.json",
 				"/home/fran/.config/qtile/themes/nord-frost.json",
-				"/home/fran/.config/qtile/settings/groups.py",
 				"/home/fran/.config/qtile/.gitignore",
-				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
 				"/var/www/html/expensetrack.com/curl-example.php",
-				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
 				"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
-				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
-				"/var/www/html/expensetrack.com/app/App.php",
 				"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
 				"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
 				"/var/www/html/expensetrack.com/app/Container.php",
-				"/var/www/html/expensetrack.com/app/Router.php",
-				"/var/www/html/expensetrack.com/app/Config.php",
-				"/var/www/html/expensetrack.com/.env",
-				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
 				"/var/www/html/expensetrack.com/app/Services/EmailService.php",
 				"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
 				"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
@@ -973,16 +1058,9 @@
 				"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
 				"/var/www/html/expensetrack.com/app/DB.php",
 				"/var/www/html/expensetrack.com/eloquent.php",
-				"/var/www/html/expensetrack.com/cli-config.php",
-				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
-				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
-				"/var/www/html/expensetrack.com/eloquent-example.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
@@ -997,10 +1075,6 @@
 				"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
 				"/var/www/html/expensetrack.com/migrations.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
-				"/var/www/html/expensetrack.com/composer.json",
 				"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
 				"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
@@ -1017,62 +1091,12 @@
 				"/var/www/html/expensetrack.com/views/invoice/index.php",
 				"/var/www/html/expensetrack.com/views/index.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
-				"/var/www/html/expensetrack.com/app/Model.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
-				"/var/www/html/expensetrack.com/app/Transaction.php",
-				"/var/www/html/expensetrack.com/views/create.php",
-				"/var/www/html/expensetrack.com/app/Scripts/Email.php",
-				"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
-				"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
-				"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
-				"/var/www/html/expensetrack.com/views/user/create.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
-				"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
-				"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
-				"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
-				"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/AbstractTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/DataPart.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/File.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/Stream/AbstractStream.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/MailerInterface.php"
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php"
 			],
 			"find":
 			{
-				"height": 75.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -1086,7 +1110,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"compact_pa"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1095,7 +1118,7 @@
 				"replace_history":
 				[
 				],
-				"reverse": false,
+				"reverse": true,
 				"scrollbar_highlights": true,
 				"show_context": true,
 				"use_buffer2": true,
@@ -1105,11 +1128,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 75.0
+				"height": 37.0
 			},
 			"input":
 			{
-				"height": 76.0
+				"height": 78.0
 			},
 			"menu_visible": false,
 			"output.GitSavvy":
@@ -1174,8 +1197,240 @@
 				"selected_items":
 				[
 					[
-						"ind",
+						"in",
 						"public/index.php"
+					],
+					[
+						"constant",
+						"app/configs/path_constants.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"inde",
+						"views/index.html.twig"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"config",
+						"app/Config.php"
+					],
+					[
+						"Config",
+						"cli-config.php"
+					],
+					[
+						"c",
+						"app/configs/container_bindings.php"
+					],
+					[
+						"inv",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"routes",
+						"app/configs/routes.php"
+					],
+					[
+						"cont",
+						"app/configs/container.php"
+					],
+					[
+						"i",
+						"public/index.php"
+					],
+					[
+						"ind",
+						"views/invoice/index.html.twig"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"Ap",
+						"app/App.php"
+					],
+					[
+						"App",
+						"app/App.php"
+					],
+					[
+						"InvoiceServ",
+						"app/Services/Invoice/InvoiceService.php"
+					],
+					[
+						"InvS",
+						"app/Services/InvoiceService.php"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"compos",
+						"composer.json"
+					],
+					[
+						"",
+						".env"
+					],
+					[
+						"Invo",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"404",
+						"views/errors/404.html.twig"
+					],
+					[
+						"Hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Tran",
+						"app/Models/Transaction.php"
+					],
+					[
+						"Transa",
+						"app/Models/Transaction.php"
+					],
+					[
+						"Transac",
+						"app/Transaction.php"
+					],
+					[
+						"lay",
+						"views/layout.html.twig"
+					],
+					[
+						"inv/in",
+						"views/invoice/index.twig"
+					],
+					[
+						"Invc",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"index.t",
+						"views/invoice/index.twig"
+					],
+					[
+						"IN",
+						"public/index.php"
+					],
+					[
+						"eloq",
+						"eloquent-example.php"
+					],
+					[
+						"wid",
+						"settings/widgets.py"
+					],
+					[
+						"gro",
+						"settings/groups.py"
+					],
+					[
+						"gr",
+						"settings/groups.py"
+					],
+					[
+						"key",
+						"settings/keys.py"
+					],
+					[
+						"EmailVa",
+						"app/DTO/EmailValidationResult.php"
+					],
+					[
+						"cu",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"app",
+						"app/App.php"
+					],
+					[
+						"emavaser",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"curl",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"emailva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"emailval",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"emaival",
+						"app/Services/AbstractApi/EmailValidationService.php"
+					],
+					[
+						"guz",
+						"app/Services/GuzzleMiddleware.php"
+					],
+					[
+						"Emva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"Emailva",
+						"app/Services/AbstractApi/EmailValidationService.php"
+					],
+					[
+						".n",
+						".env"
+					],
+					[
+						"emva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"Emailval",
+						"app/Services/EmailValidationService.php"
+					],
+					[
+						"Con",
+						"app/Config.php"
+					],
+					[
+						"cur",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"Conf",
+						"app/Config.php"
+					],
+					[
+						"APP",
+						"app/App.php"
 					],
 					[
 						"w",
@@ -1194,24 +1449,8 @@
 						"config.json"
 					],
 					[
-						"key",
-						"settings/keys.py"
-					],
-					[
-						"gr",
-						"settings/groups.py"
-					],
-					[
 						"Inv",
 						"app/Models/Invoice.php"
-					],
-					[
-						"in",
-						"public/index.php"
-					],
-					[
-						"inv",
-						"app/Controllers/InvoiceController.php"
 					],
 					[
 						"In",
@@ -1226,20 +1465,8 @@
 						"app/Container.php"
 					],
 					[
-						".env",
-						".env"
-					],
-					[
-						"App",
-						"app/App.php"
-					],
-					[
 						"InvCon",
 						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"Con",
-						"app/Container.php"
 					],
 					[
 						"invo",
@@ -1250,16 +1477,8 @@
 						"app/Controllers/InvoiceController.php"
 					],
 					[
-						"Invo",
-						"app/Models/Invoice.php"
-					],
-					[
 						"el",
 						"eloquent.php"
-					],
-					[
-						"i",
-						"public/index.php"
 					],
 					[
 						"elo",
@@ -1306,10 +1525,6 @@
 						"cli-config.php"
 					],
 					[
-						"com",
-						"composer.json"
-					],
-					[
 						"Entit/",
 						"app/Entity/Invoice.php"
 					],
@@ -1330,10 +1545,6 @@
 						"public/index.php"
 					],
 					[
-						"inde",
-						"public/index.php"
-					],
-					[
 						"DB",
 						"app/DB.php"
 					],
@@ -1346,16 +1557,8 @@
 						"composer.json"
 					],
 					[
-						"hom",
-						"app/Controllers/HomeController.php"
-					],
-					[
 						"view inde",
 						"views/index.php"
-					],
-					[
-						"Ap",
-						"app/App.php"
 					],
 					[
 						"ho",
@@ -1422,10 +1625,6 @@
 						"composer.json"
 					],
 					[
-						"compo",
-						"composer.json"
-					],
-					[
 						"create",
 						"views/user/create.php"
 					],
@@ -1460,10 +1659,6 @@
 					[
 						"EmailM",
 						"app/Models/EmailModel.php"
-					],
-					[
-						".en",
-						".env"
 					],
 					[
 						"EmailS",
@@ -1512,178 +1707,6 @@
 					[
 						"SmTp",
 						"app/Services/SmtpTransport.php"
-					],
-					[
-						"",
-						"vendor/symfony/mailer/Mailer.php"
-					],
-					[
-						"Home",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"composer",
-						"composer.json"
-					],
-					[
-						"INDE",
-						"public/index.php"
-					],
-					[
-						"Teac",
-						"TeacherModel.php"
-					],
-					[
-						"Teachermodel",
-						"TeacherModel.php"
-					],
-					[
-						"inv index",
-						"views/invoice/index.php"
-					],
-					[
-						"H",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Pet",
-						"app/Pet.php"
-					],
-					[
-						"Que",
-						"app/QuestGiver.php"
-					],
-					[
-						"Drag",
-						"app/Dragon.php"
-					],
-					[
-						"ske",
-						"app/Skeleton.php"
-					],
-					[
-						"Mons",
-						"app/Monster.php"
-					],
-					[
-						"Zom",
-						"app/Zombie.php"
-					],
-					[
-						"S",
-						"app/Skeleton.php"
-					],
-					[
-						"n",
-						"app/Npc.php"
-					],
-					[
-						"Ske",
-						"app/Skeleton.php"
-					],
-					[
-						"invoce",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"invois",
-						"app/Enums/InvoiceStatus.php"
-					],
-					[
-						"control",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"Index",
-						"views/invoice/index.php"
-					],
-					[
-						"invoiceIn",
-						"views/invoice/index.php"
-					],
-					[
-						"Invoice/in",
-						"views/invoice/index.php"
-					],
-					[
-						"Inovi",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"invoice/n",
-						"views/invoice/index.php"
-					],
-					[
-						"InvoiceStat",
-						"app/Models/InvoiceStatus.php"
-					],
-					[
-						"invoiceMod",
-						"app/Models/InvoiceModel.php"
-					],
-					[
-						"invio",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"contro",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Post",
-						"app/Attributes/Post.php"
-					],
-					[
-						"Get",
-						"app/Attributes/Get.php"
-					],
-					[
-						"Pos",
-						"app/Attributes/Post.php"
-					],
-					[
-						"get",
-						"app/Attributes/Get.php"
-					],
-					[
-						"Route",
-						"app/Router.php"
-					],
-					[
-						"Hoe ",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Router",
-						"app/Attributes/Router.php"
-					],
-					[
-						"Rou",
-						"app/Attributes/Router.php"
-					],
-					[
-						"R",
-						"app/Router.php"
-					],
-					[
-						"home",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"An",
-						"app/Animal.php"
-					],
-					[
-						"a",
-						"app/Animal.php"
-					],
-					[
-						"Dog",
-						"app/Dog.php"
-					],
-					[
-						"Cat",
-						"app/Cat.php"
 					]
 				],
 				"width": 0.0
@@ -1716,7 +1739,7 @@
 			{
 			}
 		},
-		"new_window_width": 1366.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -1726,8 +1749,332 @@
 				"selected_items":
 				[
 					[
+						"_",
+						"$_ENV"
+					],
+					[
+						"Invoice",
+						"InvoiceController"
+					],
+					[
+						"App",
+						"App"
+					],
+					[
+						"decalre",
+						"declare\tdeclare_php"
+					],
+					[
 						"php",
 						"php\tphp"
+					],
+					[
+						"conta",
+						"$containerBuilder"
+					],
+					[
+						"Confi",
+						"Config [App]"
+					],
+					[
+						"Confgi",
+						"Config [App]"
+					],
+					[
+						"e",
+						"$entityManager"
+					],
+					[
+						"InvoiceServic",
+						"InvoiceService [App\\Services\\Invoice]"
+					],
+					[
+						"const",
+						"construct\tconstruct_php"
+					],
+					[
+						"decla",
+						"declare\tdeclare_php"
+					],
+					[
+						"t",
+						"$twig"
+					],
+					[
+						"T",
+						"Twig"
+					],
+					[
+						"Twig",
+						"TwigFunction"
+					],
+					[
+						"inv",
+						"$invoiceService"
+					],
+					[
+						"Containe",
+						"Container"
+					],
+					[
+						"req",
+						"$request"
+					],
+					[
+						"re",
+						"$response"
+					],
+					[
+						"Twi",
+						"Twig"
+					],
+					[
+						"declare",
+						"declare\tdeclare_php"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"transaction",
+						"$transactionModel"
+					],
+					[
+						"Transactio",
+						"Transaction [App]"
+					],
+					[
+						"trans",
+						"transactions"
+					],
+					[
+						"ren",
+						"render"
+					],
+					[
+						"tota",
+						"$totalIncome"
+					],
+					[
+						"stat",
+						"static"
+					],
+					[
+						"last",
+						"last"
+					],
+					[
+						"total",
+						"$totalIncome"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"Tw",
+						"TwigFunction"
+					],
+					[
+						"Attribut",
+						"Attribute [Illuminate\\Database\\Eloquent\\Casts]"
+					],
+					[
+						"Attr",
+						"Attribute"
+					],
+					[
+						"fnct",
+						"function"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Cats",
+						"CastsAttributes"
+					],
+					[
+						"decal",
+						"declare\tdeclare_php"
+					],
+					[
+						"Transa",
+						"Transaction [App]"
+					],
+					[
+						"Transaction",
+						"Transaction [App\\Models]"
+					],
+					[
+						"DATEtIME",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"dr",
+						"dropTable"
+					],
+					[
+						"DATEt",
+						"DATETIME_MUTABLE"
+					],
+					[
+						"ad",
+						"addColumn"
+					],
+					[
+						"create",
+						"createTable"
+					],
+					[
+						"Transact",
+						"Transactions"
+					],
+					[
+						"Model",
+						"Model"
+					],
+					[
+						"addF",
+						"addFunction"
+					],
+					[
+						"wi",
+						"$widerBillableWeight"
+					],
+					[
+						"billa",
+						"$billableWeightSevice"
+					],
+					[
+						"package",
+						"$packageDimension"
+					],
+					[
+						"dimDiviso",
+						"DimDivisor"
+					],
+					[
+						"packa",
+						"$packageDimension"
+					],
+					[
+						"mat",
+						"match\tmatch …"
+					],
+					[
+						"dim",
+						"$dimWeight"
+					],
+					[
+						"d",
+						"width"
+					],
+					[
+						"di",
+						"$dimWeight"
+					],
+					[
+						"lg",
+						"$length"
+					],
+					[
+						"w",
+						"$width"
+					],
+					[
+						"EmailVa",
+						"EmailValidationResult"
+					],
+					[
+						"Emailva",
+						"EmailValidationResult"
+					],
+					[
+						"EmailValida",
+						"EmailValidationResult"
+					],
+					[
+						"Emailv",
+						"EmailValidationResult"
+					],
+					[
+						"namesa",
+						"namespace"
+					],
+					[
+						"EmailValidationServic",
+						"EmailValidationService [App\\Services\\Emailable]"
+					],
+					[
+						"EmailValidationService",
+						"EmailValidationService [App\\Services\\Emailable]"
+					],
+					[
+						"g",
+						"$guzzleMiddleware"
+					],
+					[
+						"Guzz",
+						"GuzzleMiddleware"
+					],
+					[
+						"RequestInterfac",
+						"RequestInterface"
+					],
+					[
+						"EmailValidation",
+						"EmailValidationService [App\\Services\\AbstractApi]"
+					],
+					[
+						"Emal",
+						"EmailValidationInterface"
+					],
+					[
+						"emailVa",
+						"EmailValidationInterface"
+					],
+					[
+						"EmailVAli",
+						"EmailValidationInterface"
+					],
+					[
+						"Email",
+						"EmailValidationInterface"
+					],
+					[
+						"ret",
+						"$retries"
+					],
+					[
+						"Middlew",
+						"Middleware [GuzzleHttp]"
+					],
+					[
+						"tac",
+						"$stack"
+					],
+					[
+						"bas",
+						"baseUrl"
+					],
+					[
+						"con",
+						"config"
+					],
+					[
+						"deca",
+						"declare\tdeclare_php"
+					],
+					[
+						"emailValidat",
+						"$emailValidationService"
+					],
+					[
+						"end",
+						"endPoint"
 					],
 					[
 						"curl_get",
@@ -1740,18 +2087,6 @@
 					[
 						"CURLOPT_RE",
 						"CURLOPT_RETURNTRANSFER"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"App",
-						"App\\Controllers"
-					],
-					[
-						"decla",
-						"declare\tdeclare_php"
 					],
 					[
 						"CURLOP",
@@ -1776,10 +2111,6 @@
 					[
 						"Container",
 						"Container [Illuminate\\Container]"
-					],
-					[
-						"ex",
-						"exit"
 					],
 					[
 						"addDa",
@@ -1822,10 +2153,6 @@
 						"each"
 					],
 					[
-						"inv",
-						"$invoiceItem"
-					],
-					[
 						"i",
 						"$item"
 					],
@@ -1836,14 +2163,6 @@
 					[
 						"InvoiceItem",
 						"InvoiceItem"
-					],
-					[
-						"Model",
-						"Model [Illuminate\\Database\\Eloquent]"
-					],
-					[
-						"declare",
-						"declare\tdeclare_php"
 					],
 					[
 						"Wi",
@@ -1858,20 +2177,12 @@
 						"for\tfor …"
 					],
 					[
-						"Invoice",
-						"Invoice [App\\Models]"
-					],
-					[
 						"notnull",
 						"setNotnull"
 					],
 					[
 						"Auto",
 						"setAutoincrement"
-					],
-					[
-						"dr",
-						"dropTable"
 					],
 					[
 						"DATETIME",
@@ -1884,10 +2195,6 @@
 					[
 						"in",
 						"INTEGER"
-					],
-					[
-						"create",
-						"createdAt"
 					],
 					[
 						"Preper",
@@ -1910,20 +2217,12 @@
 						"flush"
 					],
 					[
-						"re",
-						"remove"
-					],
-					[
 						"invo",
 						"invoiceId"
 					],
 					[
 						"Config",
 						"Configuration"
-					],
-					[
-						"con",
-						"$connectionParams"
 					],
 					[
 						"Connection",
@@ -1960,282 +2259,6 @@
 					[
 						"ArrayC",
 						"ArrayCollection"
-					],
-					[
-						"Collec",
-						"Collection"
-					],
-					[
-						"One",
-						"OneToMany"
-					],
-					[
-						"na",
-						"namespace"
-					],
-					[
-						"tra",
-						"$transactionItem"
-					],
-					[
-						"exe",
-						"executeStatement"
-					],
-					[
-						"exce",
-						"executeStatement"
-					],
-					[
-						"fetch",
-						"fetchLazy"
-					],
-					[
-						"prin",
-						"print_r"
-					],
-					[
-						"trans",
-						"transaction"
-					],
-					[
-						"pre",
-						"prepare"
-					],
-					[
-						"bi",
-						"bindValue"
-					],
-					[
-						"feat",
-						"fetchAllAssociative"
-					],
-					[
-						"e",
-						"executeQuery"
-					],
-					[
-						"fetchA",
-						"fetchAllAssociative"
-					],
-					[
-						"fet",
-						"fetchAllAssociative"
-					],
-					[
-						"Para",
-						"ParameterType"
-					],
-					[
-						"Connectio",
-						"Connection [Doctrine\\DBAL]"
-					],
-					[
-						"listTab",
-						"listTableIndexes"
-					],
-					[
-						"conver",
-						"convertToPHPValue"
-					],
-					[
-						"listTa",
-						"listTableColumns"
-					],
-					[
-						"listTable",
-						"listTables"
-					],
-					[
-						"list",
-						"listDatabases"
-					],
-					[
-						"getData",
-						"getDatabasePlatform"
-					],
-					[
-						"_n",
-						"_ENV"
-					],
-					[
-						"__invo",
-						"__invoke"
-					],
-					[
-						"emai",
-						"$emailModel"
-					],
-					[
-						"email",
-						"$email"
-					],
-					[
-						"ema",
-						"$emailStatus"
-					],
-					[
-						"emst",
-						"$emailStatus"
-					],
-					[
-						"Transport",
-						"TransportInterface"
-					],
-					[
-						"req",
-						"$requestMethod"
-					],
-					[
-						"http_res",
-						"http_response_code()"
-					],
-					[
-						"try",
-						"try\tWrap in try { … } catch (…) { … }"
-					],
-					[
-						"math",
-						"match"
-					],
-					[
-						"json_",
-						"json_encode"
-					],
-					[
-						"sub",
-						"subject"
-					],
-					[
-						"FETCH",
-						"FETCH_OBJ"
-					],
-					[
-						"date",
-						"date()"
-					],
-					[
-						"time",
-						"time()"
-					],
-					[
-						"crea",
-						"created_at"
-					],
-					[
-						"getH",
-						"getHtmlBody"
-					],
-					[
-						"subj",
-						"getSubject"
-					],
-					[
-						"Email",
-						"Email [Symfony\\Component\\Mime]"
-					],
-					[
-						"dec",
-						"decl\tdeclare strict_types"
-					],
-					[
-						"Smtp",
-						"SmtpTransport [Symfony\\Component\\Mailer\\Transport\\Smtp]"
-					],
-					[
-						"Transpor",
-						"Transport"
-					],
-					[
-						"Trans",
-						"Transport"
-					],
-					[
-						"Mailer",
-						"Mailer"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"alig",
-						"align-content"
-					],
-					[
-						"items",
-						"justify-items"
-					],
-					[
-						"ph",
-						"php\tphp"
-					],
-					[
-						"declar",
-						"declare\tdeclare_php"
-					],
-					[
-						"Color",
-						"Colors [App\\Enums]"
-					],
-					[
-						"stat",
-						"status"
-					],
-					[
-						"sta",
-						"status"
-					],
-					[
-						"Mo",
-						"Models"
-					],
-					[
-						"in_arr",
-						"in_array()"
-					],
-					[
-						"if",
-						"if\tif …"
-					],
-					[
-						"FET",
-						"FETCH_OBJ"
-					],
-					[
-						"end",
-						"endforeach"
-					],
-					[
-						"G",
-						"Get"
-					],
-					[
-						"Attr",
-						"Attribute"
-					],
-					[
-						"r",
-						"routes"
-					],
-					[
-						"attr",
-						"$attributeRoute"
-					],
-					[
-						"attribute",
-						"$attributeRoute"
-					],
-					[
-						"atr",
-						"$attributes"
-					],
-					[
-						"count",
-						"count()"
-					],
-					[
-						"att",
-						"$attributes"
 					]
 				]
 			},
@@ -2243,52 +2266,19 @@
 			[
 				{
 					"file": "/var/www/html/expensetrack.com/public/index.php",
-					"redo_stack":
-					[
-						[
-							8,
-							1,
-							"insert_completion",
-							{
-								"completion": "echo \"<pre>\";\nprint_r(${1});\necho \"</pre>\";",
-								"format": "snippet",
-								"keep_prefix": false,
-								"must_insert": false,
-								"trigger": "pre"
-							},
-							"AgAAAAcAAAAAAAAABwAAAAAAAAAnAAAAZWNobyAiPHByZT4iOwpwcmludF9yKCk7CmVjaG8gIjwvcHJlPiI7BwAAAAAAAAAKAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": "\npre"
-							},
-							"BAAAAAkAAAAAAAAACQAAAAAAAAABAAAAZQgAAAAAAAAACAAAAAAAAAABAAAAcgcAAAAAAAAABwAAAAAAAAABAAAAcAYAAAAAAAAABgAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAAYAAAAAAAAABgAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
-						]
-					],
 					"settings":
 					{
-						"buffer_size": 1196,
-						"encoding": "UTF-8",
+						"buffer_size": 539,
 						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
+					}
+				},
+				{
+					"file": "/var/www/html/expensetrack.com/.gitignore",
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -2319,12 +2309,24 @@
 				"selected_items":
 				[
 					[
-						"settin",
+						"setting",
 						"Preferences: Settings"
 					],
 					[
-						"setting",
-						"Preferences: Settings"
+						"materia",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"title",
+						"Material Theme: Extras"
+					],
+					[
+						"ui",
+						"UI: Customize Theme"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
 					],
 					[
 						"sett",
@@ -2333,6 +2335,22 @@
 					[
 						"g",
 						"git: status"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"gs",
+						"git: status"
+					],
+					[
+						"snipper",
+						"Snippet: construct_php"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
 					],
 					[
 						"gi",
@@ -2385,10 +2403,6 @@
 					[
 						"delete",
 						"ANF: Delete Current File"
-					],
-					[
-						"gs",
-						"git: status"
 					],
 					[
 						"gis",
@@ -2566,31 +2580,92 @@
 			],
 			"file_history":
 			[
-				"/var/www/html/expensetrack.com/public/index.php",
 				"/home/fran/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/fran/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/var/www/html/expensetrack.com/public/index.php",
+				"/var/www/html/expensetrack.com/app/configs/container_bindings.php",
+				"/var/www/html/expensetrack.com/app/configs/path_constants.php",
+				"/var/www/html/expensetrack.com/.env",
+				"/var/www/html/expensetrack.com/app/Config.php",
+				"/var/www/html/expensetrack.com/views/index.html.twig",
+				"/var/www/html/expensetrack.com/cli-config.php",
+				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
+				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
+				"/var/www/html/expensetrack.com/app/configs/routes.php",
+				"/var/www/html/expensetrack.com/app/configs/container.php",
+				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.html.twig",
+				"/var/www/html/expensetrack.com/app/Services/Invoice/InvoiceService.php",
+				"/var/www/html/expensetrack.com/app/App.php",
+				"/var/www/html/expensetrack.com/composer.json",
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/EntityManager.php",
+				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
+				"/var/www/html/expensetrack.com/vendor/slim/twig-view/src/Twig.php",
+				"/var/www/html/expensetrack.com/app/Models/Transaction.php",
+				"/var/www/html/expensetrack.com/vendor/slim/slim/Slim/Factory/AppFactory.php",
+				"/var/www/html/expensetrack.com/public/.htaccess",
+				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
+				"/var/www/html/expensetrack.com/app/Contracts/EmailValidationInterface.php",
+				"/var/www/html/expensetrack.com/app/DTO/EmailValidationResult.php",
+				"/var/www/html/expensetrack.com/app/Controllers/ErrorsController.php",
+				"/var/www/html/expensetrack.com/views/errors/404.html.twig",
+				"/var/www/html/expensetrack.com/app/View.php",
+				"/var/www/html/expensetrack.com/app/cast/AsMoney.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250604202503.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Schema.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
+				"/var/www/html/expensetrack.com/migrations/Version20250603195100.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
+				"/var/www/html/expensetrack.com/views/create.html.twig",
+				"/var/www/html/expensetrack.com/app/Transaction.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Casts/Attribute.php",
+				"/var/www/html/expensetrack.com/app/Money.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/contracts/Database/Eloquent/CastsAttributes.php",
+				"/var/www/html/expensetrack.com/views/layout.html.twig",
+				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
+				"/var/www/html/expensetrack.com/views/invoice/index.twig",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
+				"/var/www/html/expensetrack.com/vendor/twig/twig/src/Environment.php",
+				"/var/www/html/expensetrack.com/vendor/twig/twig/src/TwigFunction.php",
+				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
+				"/var/www/html/expensetrack.com/example-value-object.php",
+				"/var/www/html/expensetrack.com/app/Services/PackageDimension.php",
+				"/var/www/html/expensetrack.com/app/Services/BillableWeightCalculatorService.php",
+				"/var/www/html/expensetrack.com/app/Services/DimDivisor.php",
+				"/var/www/html/expensetrack.com/app/DimDivisor.php",
+				"/var/www/html/expensetrack.com/app/Services/Weight.php",
+				"/var/www/html/expensetrack.com/eloquent-example.php",
 				"/home/fran/.config/qtile/settings/widgets.py",
+				"/home/fran/.config/qtile/settings/groups.py",
+				"/var/www/html/expensetrack.com/app/Router.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/container/Container.php",
 				"/home/fran/.config/qtile/settings/keys.py",
+				"/var/www/html/expensetrack.com/app/Services/Emailable/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/app/Services/AbstractApi/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/app/Services/GuzzleMiddleware.php",
+				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/SPL/SPL.php",
+				"/var/www/html/expensetrack.com/app/Services/AbstractAPi/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/tet.txt",
+				"/var/www/html/expensetrack.com/app/Services/EmailValidationService.php",
+				"/var/www/html/expensetrack.com/vendor/guzzlehttp/guzzle/src/ClientTrait.php",
+				"/var/www/html/expensetrack.com/vendor/psr/http-message/src/MessageInterface.php",
+				"/var/www/html/expensetrack.com/vendor/psr/http-message/src/StreamInterface.php",
+				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
+				"/home/fran/.config/sublime-text/Packages/Material Theme/Preferences.sublime-settings",
 				"/home/fran/.config/qtile/config.json",
 				"/home/fran/.config/qtile/themes/nord-desatured.json",
 				"/home/fran/.config/qtile/themes/nord-minimalist.json",
 				"/home/fran/.config/qtile/themes/everforest-soft.json",
 				"/home/fran/.config/qtile/themes/nord-frost.json",
-				"/home/fran/.config/qtile/settings/groups.py",
 				"/home/fran/.config/qtile/.gitignore",
-				"/var/www/html/expensetrack.com/app/Controllers/CurlController.php",
 				"/var/www/html/expensetrack.com/curl-example.php",
-				"/var/www/html/expensetrack.com/app/Models/Invoice.php",
 				"/var/www/html/expensetrack.com/app/Events/InvoiceCreating.php",
-				"/var/www/html/expensetrack.com/app/Controllers/InvoiceController.php",
-				"/var/www/html/expensetrack.com/app/App.php",
 				"/var/www/html/expensetrack.com/app/Services/PaymentGatewayInterface.php",
 				"/var/www/html/expensetrack.com/app/Services/StripePayment.php",
 				"/var/www/html/expensetrack.com/app/Container.php",
-				"/var/www/html/expensetrack.com/app/Router.php",
-				"/var/www/html/expensetrack.com/app/Config.php",
-				"/var/www/html/expensetrack.com/.env",
-				"/var/www/html/expensetrack.com/app/Services/InvoiceService.php",
 				"/var/www/html/expensetrack.com/app/Services/EmailService.php",
 				"/var/www/html/expensetrack.com/app/Models/TransactionModel.php",
 				"/var/www/html/expensetrack.com/app/Models/EmailModel.php",
@@ -2598,16 +2673,9 @@
 				"/var/www/html/expensetrack.com/app/Models/InvoiceItem.php",
 				"/var/www/html/expensetrack.com/app/DB.php",
 				"/var/www/html/expensetrack.com/eloquent.php",
-				"/var/www/html/expensetrack.com/cli-config.php",
-				"/var/www/html/expensetrack.com/app/Enums/InvoiceStatus.php",
-				"/var/www/html/expensetrack.com/app/Controllers/HomeController.php",
-				"/var/www/html/expensetrack.com/eloquent-example.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Builder.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Collection.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Query/Builder.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/collections/Collection.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Model.php",
-				"/var/www/html/expensetrack.com/vendor/illuminate/database/Capsule/Manager.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasMany.php",
 				"/var/www/html/expensetrack.com/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php",
@@ -2622,10 +2690,6 @@
 				"/var/www/html/expensetrack.com/migrations/Version20250523212852.php",
 				"/var/www/html/expensetrack.com/migrations.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Types.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Table.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/Column.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Types/Type.php",
-				"/var/www/html/expensetrack.com/composer.json",
 				"/var/www/html/expensetrack.com/vendor/doctrine/migrations/src/AbstractMigration.php",
 				"/var/www/html/expensetrack.com/vendor/vlucas/phpdotenv/src/Dotenv.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Event/PrePersistEventArgs.php",
@@ -2642,58 +2706,8 @@
 				"/var/www/html/expensetrack.com/views/invoice/index.php",
 				"/var/www/html/expensetrack.com/views/index.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/Collection.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/Core/Core_c.php",
 				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/ORMSetup.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/DriverManager.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Connection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/collections/src/ArrayCollection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/OneToMany.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/GeneratedValue.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Id.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Column.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/MappingAttribute.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Table.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Mapping/Entity.php",
-				"/var/www/html/expensetrack.com/app/Model.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Statement.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/_types.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Result.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Result.php",
-				"/var/www/html/expensetrack.com/app/Transaction.php",
-				"/var/www/html/expensetrack.com/views/create.php",
-				"/var/www/html/expensetrack.com/app/Scripts/Email.php",
-				"/var/www/html/expensetrack.com/app/Models/InvoiceModel.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/PDO/PDO.php",
-				"/var/www/html/expensetrack.com/app/Controllers/TestController.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/dba/Connection.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Schema/AbstractSchemaManager.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Platforms/AbstractPlatform.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Driver/Statement.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/Cache/QueryCacheProfile.php",
-				"/var/www/html/expensetrack.com/vendor/doctrine/dbal/src/ParameterType.php",
-				"/home/fran/.cache/sublime-text/Package Storage/LSP-intelephense/20.18.0/language-server/node_modules/intelephense/lib/stub/standard/standard_9.php",
-				"/var/www/html/expensetrack.com/app/Controllers/UserController.php",
-				"/var/www/html/expensetrack.com/views/user/create.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Address.php",
-				"/var/www/html/expensetrack.com/app/Services/EmailQueue.php",
-				"/var/www/html/expensetrack.com/app/Exceptions/NotFoundException.php",
-				"/var/www/html/expensetrack.com/app/Enums/EmailStatus.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Email.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Header/Headers.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Mailer.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/AbstractPart.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Message.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Envelope.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Encoder/IdnAddressEncoder.php",
-				"/var/www/html/expensetrack.com/app/Services/SmtpTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/AbstractTransport.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/DataPart.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mime/Part/File.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/Transport/Smtp/Stream/AbstractStream.php",
-				"/var/www/html/expensetrack.com/vendor/symfony/mailer/MailerInterface.php"
+				"/var/www/html/expensetrack.com/vendor/doctrine/orm/src/Configuration.php"
 			],
 			"find":
 			{
@@ -2719,7 +2733,7 @@
 				"replace_history":
 				[
 				],
-				"reverse": false,
+				"reverse": true,
 				"scrollbar_highlights": true,
 				"show_context": true,
 				"use_buffer2": true,
@@ -2741,19 +2755,18 @@
 						{
 							"buffer": 0,
 							"file": "/var/www/html/expensetrack.com/public/index.php",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1196,
+								"buffer_size": 539,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6,
-										6
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2777,9 +2790,38 @@
 									"lsp_active": true,
 									"lsp_uri": "file:///var/www/html/expensetrack.com/public/index.php",
 									"show_definitions": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/var/www/html/expensetrack.com/.gitignore",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///var/www/html/expensetrack.com/.gitignore",
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2798,7 +2840,7 @@
 			},
 			"input":
 			{
-				"height": 76.0
+				"height": 78.0
 			},
 			"layout":
 			{
@@ -2873,7 +2915,7 @@
 				]
 			},
 			"pinned_build_system": "Packages/PHP/PHP.sublime-build",
-			"position": "0,0,0,0,0,0,24,1366,768,1366,768,1",
+			"position": "0,1,0,0,0,0,0,1366,682,1366,768,0",
 			"project": "",
 			"replace":
 			{
@@ -2887,12 +2929,244 @@
 				"selected_items":
 				[
 					[
-						"in",
-						"public/index.php"
+						".g",
+						".gitignore"
 					],
 					[
 						"ind",
 						"public/index.php"
+					],
+					[
+						"in",
+						"public/index.php"
+					],
+					[
+						"constant",
+						"app/configs/path_constants.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"inde",
+						"views/index.html.twig"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"config",
+						"app/Config.php"
+					],
+					[
+						"Config",
+						"cli-config.php"
+					],
+					[
+						"c",
+						"app/configs/container_bindings.php"
+					],
+					[
+						"inv",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"home",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"routes",
+						"app/configs/routes.php"
+					],
+					[
+						"cont",
+						"app/configs/container.php"
+					],
+					[
+						"i",
+						"public/index.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"Ap",
+						"app/App.php"
+					],
+					[
+						"App",
+						"app/App.php"
+					],
+					[
+						"InvoiceServ",
+						"app/Services/Invoice/InvoiceService.php"
+					],
+					[
+						"InvS",
+						"app/Services/InvoiceService.php"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"compos",
+						"composer.json"
+					],
+					[
+						"",
+						".env"
+					],
+					[
+						"Invo",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"404",
+						"views/errors/404.html.twig"
+					],
+					[
+						"Hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"hom",
+						"app/Controllers/HomeController.php"
+					],
+					[
+						"Tran",
+						"app/Models/Transaction.php"
+					],
+					[
+						"Transa",
+						"app/Models/Transaction.php"
+					],
+					[
+						"Transac",
+						"app/Transaction.php"
+					],
+					[
+						"lay",
+						"views/layout.html.twig"
+					],
+					[
+						"inv/in",
+						"views/invoice/index.twig"
+					],
+					[
+						"Invc",
+						"app/Controllers/InvoiceController.php"
+					],
+					[
+						"index.t",
+						"views/invoice/index.twig"
+					],
+					[
+						"IN",
+						"public/index.php"
+					],
+					[
+						"eloq",
+						"eloquent-example.php"
+					],
+					[
+						"wid",
+						"settings/widgets.py"
+					],
+					[
+						"gro",
+						"settings/groups.py"
+					],
+					[
+						"gr",
+						"settings/groups.py"
+					],
+					[
+						"key",
+						"settings/keys.py"
+					],
+					[
+						"EmailVa",
+						"app/DTO/EmailValidationResult.php"
+					],
+					[
+						"cu",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"app",
+						"app/App.php"
+					],
+					[
+						"emavaser",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"curl",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"emailva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"emailval",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"emaival",
+						"app/Services/AbstractApi/EmailValidationService.php"
+					],
+					[
+						"guz",
+						"app/Services/GuzzleMiddleware.php"
+					],
+					[
+						"Emva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"Emailva",
+						"app/Services/AbstractApi/EmailValidationService.php"
+					],
+					[
+						".n",
+						".env"
+					],
+					[
+						"emva",
+						"app/Services/Emailable/EmailValidationService.php"
+					],
+					[
+						"Emailval",
+						"app/Services/EmailValidationService.php"
+					],
+					[
+						"Con",
+						"app/Config.php"
+					],
+					[
+						"cur",
+						"app/Controllers/CurlController.php"
+					],
+					[
+						"Conf",
+						"app/Config.php"
+					],
+					[
+						"APP",
+						"app/App.php"
 					],
 					[
 						"w",
@@ -2911,20 +3185,8 @@
 						"config.json"
 					],
 					[
-						"key",
-						"settings/keys.py"
-					],
-					[
-						"gr",
-						"settings/groups.py"
-					],
-					[
 						"Inv",
 						"app/Models/Invoice.php"
-					],
-					[
-						"inv",
-						"app/Controllers/InvoiceController.php"
 					],
 					[
 						"In",
@@ -2939,20 +3201,8 @@
 						"app/Container.php"
 					],
 					[
-						".env",
-						".env"
-					],
-					[
-						"App",
-						"app/App.php"
-					],
-					[
 						"InvCon",
 						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"Con",
-						"app/Container.php"
 					],
 					[
 						"invo",
@@ -2963,16 +3213,8 @@
 						"app/Controllers/InvoiceController.php"
 					],
 					[
-						"Invo",
-						"app/Models/Invoice.php"
-					],
-					[
 						"el",
 						"eloquent.php"
-					],
-					[
-						"i",
-						"public/index.php"
 					],
 					[
 						"elo",
@@ -3019,10 +3261,6 @@
 						"cli-config.php"
 					],
 					[
-						"com",
-						"composer.json"
-					],
-					[
 						"Entit/",
 						"app/Entity/Invoice.php"
 					],
@@ -3043,10 +3281,6 @@
 						"public/index.php"
 					],
 					[
-						"inde",
-						"public/index.php"
-					],
-					[
 						"DB",
 						"app/DB.php"
 					],
@@ -3059,16 +3293,8 @@
 						"composer.json"
 					],
 					[
-						"hom",
-						"app/Controllers/HomeController.php"
-					],
-					[
 						"view inde",
 						"views/index.php"
-					],
-					[
-						"Ap",
-						"app/App.php"
 					],
 					[
 						"ho",
@@ -3135,10 +3361,6 @@
 						"composer.json"
 					],
 					[
-						"compo",
-						"composer.json"
-					],
-					[
 						"create",
 						"views/user/create.php"
 					],
@@ -3173,10 +3395,6 @@
 					[
 						"EmailM",
 						"app/Models/EmailModel.php"
-					],
-					[
-						".en",
-						".env"
 					],
 					[
 						"EmailS",
@@ -3221,182 +3439,6 @@
 					[
 						"idne",
 						"vendor/symfony/mime/Encoder/IdnAddressEncoder.php"
-					],
-					[
-						"SmTp",
-						"app/Services/SmtpTransport.php"
-					],
-					[
-						"",
-						"vendor/symfony/mailer/Mailer.php"
-					],
-					[
-						"Home",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"composer",
-						"composer.json"
-					],
-					[
-						"INDE",
-						"public/index.php"
-					],
-					[
-						"Teac",
-						"TeacherModel.php"
-					],
-					[
-						"Teachermodel",
-						"TeacherModel.php"
-					],
-					[
-						"inv index",
-						"views/invoice/index.php"
-					],
-					[
-						"H",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Pet",
-						"app/Pet.php"
-					],
-					[
-						"Que",
-						"app/QuestGiver.php"
-					],
-					[
-						"Drag",
-						"app/Dragon.php"
-					],
-					[
-						"ske",
-						"app/Skeleton.php"
-					],
-					[
-						"Mons",
-						"app/Monster.php"
-					],
-					[
-						"Zom",
-						"app/Zombie.php"
-					],
-					[
-						"S",
-						"app/Skeleton.php"
-					],
-					[
-						"n",
-						"app/Npc.php"
-					],
-					[
-						"Ske",
-						"app/Skeleton.php"
-					],
-					[
-						"invoce",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"invois",
-						"app/Enums/InvoiceStatus.php"
-					],
-					[
-						"control",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"Index",
-						"views/invoice/index.php"
-					],
-					[
-						"invoiceIn",
-						"views/invoice/index.php"
-					],
-					[
-						"Invoice/in",
-						"views/invoice/index.php"
-					],
-					[
-						"Inovi",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"invoice/n",
-						"views/invoice/index.php"
-					],
-					[
-						"InvoiceStat",
-						"app/Models/InvoiceStatus.php"
-					],
-					[
-						"invoiceMod",
-						"app/Models/InvoiceModel.php"
-					],
-					[
-						"invio",
-						"app/Controllers/InvoiceController.php"
-					],
-					[
-						"contro",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Post",
-						"app/Attributes/Post.php"
-					],
-					[
-						"Get",
-						"app/Attributes/Get.php"
-					],
-					[
-						"Pos",
-						"app/Attributes/Post.php"
-					],
-					[
-						"get",
-						"app/Attributes/Get.php"
-					],
-					[
-						"Route",
-						"app/Router.php"
-					],
-					[
-						"Hoe ",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"Router",
-						"app/Attributes/Router.php"
-					],
-					[
-						"Rou",
-						"app/Attributes/Router.php"
-					],
-					[
-						"R",
-						"app/Router.php"
-					],
-					[
-						"home",
-						"app/Controllers/HomeController.php"
-					],
-					[
-						"An",
-						"app/Animal.php"
-					],
-					[
-						"a",
-						"app/Animal.php"
-					],
-					[
-						"Dog",
-						"app/Dog.php"
-					],
-					[
-						"Cat",
-						"app/Cat.php"
 					]
 				],
 				"width": 0.0
@@ -3427,13 +3469,13 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 278.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 52,
+			"window_id": 71,
 			"workspace_name": ""
 		}
 	],
